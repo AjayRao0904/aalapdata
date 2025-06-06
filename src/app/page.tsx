@@ -176,7 +176,7 @@ export default function Home() {
 		return <div className="text-white text-xl p-12">Loading...</div>;
 
 	return (
-		<div className="min-h-screen bg-[#191919] flex flex-col items-center justify-center py-12 px-2 font-sans" ref={containerRef}>
+		<div className="min-h-screen bg-[#191919] flex flex-col items-center justify-center py-12 px-2 font-sans pt-20" ref={containerRef}>
 			{/* Logo in top left */}
 			<div className="fixed top-6 left-6 z-50">
 				<Image 
