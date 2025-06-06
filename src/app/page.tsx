@@ -20,6 +20,17 @@ async function fetchPrompts() {
 	return res.json();
 }
 
+// Helper to fetch rated keys from our API
+async function fetchRatedKeys(): Promise<string[]> {
+	const res = await fetch("/api/get-ratings");
+	if (!res.ok) {
+		const errorData = await res.json();
+		throw new Error(errorData.error || "Failed to fetch rated keys");
+	}
+	const data = await res.json();
+	return data.ratedKeys || [];
+}
+
 function getAudioKeyForPrompt(idx: number): string {
 	// For prompts 0-162, audio is 000.wav to 162.wav (zero-padded to 3 digits)
 	const pad = (n: number) => n.toString().padStart(3, '0');
@@ -97,6 +108,8 @@ export default function Home() {
 			setError(null);
 			try {
 				const prompts: { prompt: string }[] = await fetchPrompts();
+				const ratedKeys = await fetchRatedKeys(); // Fetch rated keys from backend
+
 				const tracks = prompts
 					.map((item, idx) => {
 						const s3Key = getAudioKeyForPrompt(idx);
@@ -109,8 +122,10 @@ export default function Home() {
 						};
 					})
 					.filter((t): t is Track => Boolean(t)); // Specify type guard for filter
-				const rated = JSON.parse(localStorage.getItem("rated-keys") || "[]");
-				const unrated = tracks.filter((t: Track) => !rated.includes(t.s3Key));
+
+				// Filter out tracks that have already been rated
+				const unrated = tracks.filter((t) => !ratedKeys.includes(t.s3Key));
+
 				setAllTracks(unrated);
 				setVisibleTracks(unrated.slice(0, BATCH_SIZE));
 				console.log('Sample computed audio URLs:');
@@ -120,8 +135,8 @@ export default function Home() {
 					}
 				}
 			} catch (e: any) {
-				console.error('Failed to load prompts:', e);
-				setError(e instanceof Error ? e.message : 'Failed to load prompts');
+				console.error('Failed to load prompts or rated keys:', e);
+				setError(e instanceof Error ? e.message : 'Failed to load prompts or rated keys');
 			}
 			setLoading(false);
 		}
@@ -159,11 +174,12 @@ export default function Home() {
 				headers: { "Content-Type": "application/json" },
 				body: JSON.stringify({ s3Key, prompt: track.prompt, rating, promptIdx }),
 			});
-			const rated = JSON.parse(localStorage.getItem("rated-keys") || "[]");
-			localStorage.setItem("rated-keys", JSON.stringify([...rated, s3Key]));
+
+			// Remove the rated track from the current view without refetching all prompts
 			const newAllTracks = allTracks.filter((t) => t.s3Key !== s3Key);
 			setAllTracks(newAllTracks);
 			setVisibleTracks(newAllTracks.slice(0, batch * BATCH_SIZE));
+
 			setSuccess(true);
 			setTimeout(() => setSuccess(false), 2000);
 		} catch (e: any) {

@@ -16,6 +16,14 @@ const s3 = new S3Client({
   },
 });
 
+// Define RatingEntry interface here
+interface RatingEntry {
+  s3Key: string;
+  prompt: string;
+  rating: number;
+  timestamp: string;
+}
+
 export async function GET() {
   try {
     const data = await s3.send(
@@ -23,23 +31,24 @@ export async function GET() {
     );
     
     if (!data.Body) {
-      return NextResponse.json({ error: "No ratings found" }, { status: 404 });
+      // If ratings.json doesn't exist, there are no rated tracks
+      return NextResponse.json({ ratedKeys: [] });
     }
 
     const body = await data.Body.transformToString();
-    const ratings = JSON.parse(body);
+    const ratings: RatingEntry[] = JSON.parse(body);
+    
+    // Extract unique s3Keys from the ratings
+    const ratedKeys = Array.from(new Set(ratings.map(rating => rating.s3Key)));
     
     return NextResponse.json({
-      success: true,
-      totalRatings: ratings.length,
-      ratings: ratings,
-      lastUpdated: data.LastModified
+      ratedKeys: ratedKeys
     });
-  } catch (err) {
-    console.error('Error fetching ratings:', err);
+  } catch (error: unknown) {
+    console.error('Error fetching rated keys:', error); // Log the error
     return NextResponse.json({ 
-      error: (err as Error).message,
-      details: err instanceof Error ? err.stack : undefined 
+      error: 'Failed to fetch rated keys',
+      details: error instanceof Error ? error.message : String(error) 
     }, { status: 500 });
   }
 } 
