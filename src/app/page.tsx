@@ -38,7 +38,7 @@ function AudioCard({
 }) {
 	const [rating, setRating] = useState(0);
 	return (
-		<div className="rounded-[56px] border border-white/30 bg-[#232323] p-16 w-[700px] max-w-full flex flex-col items-center mb-16 shadow-lg gap-8">
+		<div className="rounded-[56px] border border-white/30 bg-[#232323] p-6 md:p-16 w-full md:w-[700px] max-w-full flex flex-col items-center mb-16 shadow-lg gap-8">
 			<div className="text-white/90 text-lg mb-6 text-center font-medium">
 				<span className="font-bold">Prompt:</span> <br />
 				{track.prompt}
