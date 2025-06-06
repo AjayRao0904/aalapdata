@@ -120,7 +120,8 @@ export default function Home() {
 					}
 				}
 			} catch (e: any) {
-				setError((e as Error).message || "Failed to load prompts");
+				console.error('Failed to load prompts:', e);
+				setError(e instanceof Error ? e.message : 'Failed to load prompts');
 			}
 			setLoading(false);
 		}
@@ -165,7 +166,8 @@ export default function Home() {
 			setVisibleTracks(newAllTracks.slice(0, batch * BATCH_SIZE));
 			setSuccess(true);
 			setTimeout(() => setSuccess(false), 2000);
-		} catch (_e: any) { // Use _e for unused error variable
+		} catch (e: any) {
+			console.error('Rating submission failed:', e);
 			setError("Failed to submit rating. Please try again.");
 		}
 	};
@@ -201,7 +203,7 @@ export default function Home() {
 						Thank you! You have rated all available tracks.
 					</div>
 				) : (
-					visibleTracks.map((track, _idx) => ( // Use _idx for unused index variable
+					visibleTracks.map((track) => (
 						<AudioCard
 							key={track.s3Key}
 							track={track}
