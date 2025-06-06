@@ -36,7 +36,7 @@ async function getRatings(): Promise<RatingEntry[]> {
     if (!data.Body) throw new Error("No ratings.json body returned from S3");
     const body = await data.Body.transformToString();
     return JSON.parse(body);
-  } catch (e) {
+  } catch (_e) {
     // If file doesn't exist, return empty array
     return [];
   }

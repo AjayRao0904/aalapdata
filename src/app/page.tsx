@@ -1,6 +1,14 @@
 "use client";
 
 import { useEffect, useState, useRef } from "react";
+import Image from 'next/image';
+
+interface Track {
+	s3Key: string;
+	prompt: string;
+	audioUrl: string;
+	promptIdx: number;
+}
 
 const S3_BASE = process.env.NEXT_PUBLIC_S3_BASE;
 const BATCH_SIZE = 5;
@@ -25,7 +33,7 @@ function AudioCard({
 	track,
 	onSubmit,
 }: {
-	track: any;
+	track: Track;
 	onSubmit: (s3Key: string, rating: number) => void;
 }) {
 	const [rating, setRating] = useState(0);
@@ -74,8 +82,8 @@ function AudioCard({
 }
 
 export default function Home() {
-	const [allTracks, setAllTracks] = useState<any[]>([]);
-	const [visibleTracks, setVisibleTracks] = useState<any[]>([]);
+	const [allTracks, setAllTracks] = useState<Track[]>([]);
+	const [visibleTracks, setVisibleTracks] = useState<Track[]>([]);
 	const [loading, setLoading] = useState(true);
 	const [error, setError] = useState<string | null>(null);
 	const [success, setSuccess] = useState(false);
@@ -88,9 +96,9 @@ export default function Home() {
 			setLoading(true);
 			setError(null);
 			try {
-				const prompts = await fetchPrompts();
+				const prompts: { prompt: string }[] = await fetchPrompts();
 				const tracks = prompts
-					.map((item: any, idx: number) => {
+					.map((item, idx) => {
 						const s3Key = getAudioKeyForPrompt(idx);
 						if (!s3Key) return null;
 						return {
@@ -100,9 +108,9 @@ export default function Home() {
 							promptIdx: idx,
 						};
 					})
-					.filter(Boolean);
+					.filter((t): t is Track => Boolean(t)); // Specify type guard for filter
 				const rated = JSON.parse(localStorage.getItem("rated-keys") || "[]");
-				const unrated = tracks.filter((t: any) => !rated.includes(t.s3Key));
+				const unrated = tracks.filter((t: Track) => !rated.includes(t.s3Key));
 				setAllTracks(unrated);
 				setVisibleTracks(unrated.slice(0, BATCH_SIZE));
 				console.log('Sample computed audio URLs:');
@@ -112,7 +120,7 @@ export default function Home() {
 					}
 				}
 			} catch (e: any) {
-				setError(e.message || "Failed to load prompts");
+				setError((e as Error).message || "Failed to load prompts");
 			}
 			setLoading(false);
 		}
@@ -157,7 +165,7 @@ export default function Home() {
 			setVisibleTracks(newAllTracks.slice(0, batch * BATCH_SIZE));
 			setSuccess(true);
 			setTimeout(() => setSuccess(false), 2000);
-		} catch (e) {
+		} catch (_e: any) { // Use _e for unused error variable
 			setError("Failed to submit rating. Please try again.");
 		}
 	};
@@ -169,7 +177,13 @@ export default function Home() {
 		<div className="min-h-screen bg-[#191919] flex flex-col items-center justify-center py-12 px-2 font-sans" ref={containerRef}>
 			{/* Logo in top left */}
 			<div className="fixed top-6 left-6 z-50">
-				<img src="/aalap_logo.svg" alt="Aalap Logo" className="h-12 w-auto" />
+				<Image 
+					src="/aalap_logo.svg" 
+					alt="Aalap Logo" 
+					className="h-12 w-auto"
+					width={48}
+					height={48}
+				/>
 			</div>
 			<div className="mb-10 text-center">
 				<h1 className="text-3xl font-bold text-white mb-2">
@@ -187,7 +201,7 @@ export default function Home() {
 						Thank you! You have rated all available tracks.
 					</div>
 				) : (
-					visibleTracks.map((track, idx) => (
+					visibleTracks.map((track, _idx) => ( // Use _idx for unused index variable
 						<AudioCard
 							key={track.s3Key}
 							track={track}
