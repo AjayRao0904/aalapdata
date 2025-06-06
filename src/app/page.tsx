@@ -51,9 +51,9 @@ function AudioCard({
 				<source src={track.audioUrl} type="audio/wav" />
 				Your browser does not support the audio element.
 			</audio>
-			<div className="w-full flex flex-col items-center gap-4">
+			<div className="w-full flex flex-col items-center gap-4">s
 				<label className="text-white/80 text-base mb-2 font-semibold">
-					How similar do you think the audio is to the pormpt ?
+					How similar do you think the audio is to the prompt ?
 				</label>
 				<input
 					type="range"
