@@ -32,12 +32,14 @@ async function fetchRatedKeys(): Promise<string[]> {
 }
 
 function getAudioKeyForPrompt(idx: number): string {
-	// For prompts 0-162, audio is 000.wav to 162.wav (zero-padded to 3 digits)
+	// Mapping logic:
+	// - For prompts 0-162: audio is 000.wav to 162.wav (zero-padded to 3 digits)
+	// - For prompts 163 and 164: no audio file exists (these are skipped)
+	// - For prompts 165 and above: audio is (idx-1).wav, zero-padded (Sagemaker bug: off by one)
 	const pad = (n: number) => n.toString().padStart(3, '0');
 	if (idx <= 162) return `musicgen-outputs/${pad(idx)}.wav`;
-	// For prompts 163 and above, audio is (idx-2).wav, zero-padded, but skip 163 and 164
 	if (idx === 163 || idx === 164) return ""; // No audio file exists
-	return `musicgen-outputs/${pad(idx - 2)}.wav`;
+	return `musicgen-outputs/${pad(idx - 1)}.wav`;
 }
 
 function AudioCard({
