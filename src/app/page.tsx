@@ -113,7 +113,7 @@ export default function Home() {
 				const tracks = prompts
 					.map((item, idx) => {
 						const s3Key = getAudioKeyForPrompt(idx);
-						if (!s3Key) return null;
+						if (!s3Key) return null; // Skip prompts with no audio file (163, 164)
 						return {
 							s3Key,
 							prompt: item.prompt,
@@ -121,7 +121,7 @@ export default function Home() {
 							promptIdx: idx,
 						};
 					})
-					.filter((t): t is Track => Boolean(t)); // Specify type guard for filter
+					.filter((t): t is Track => Boolean(t)); // Only valid tracks with audio
 
 				// Filter out tracks that have already been rated
 				const unrated = tracks.filter((t) => !ratedKeys.includes(t.s3Key));
