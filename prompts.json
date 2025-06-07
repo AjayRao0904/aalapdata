@@ -1,0 +1,4006 @@
+[
+  {
+    "id": 0,
+    "prompt": "Generate an upbeat, celebratory piece rooted in Western classical traditions, targeting a mature audience. Structure in a major key with fast tempo (allegro or vivace). Use lively string ostinatos, bold brass fanfares, staccato woodwinds, and syncopated timpani or snare rolls. Include classical counterpoint in the midsection and resolve with a full-orchestral joyful cadence."
+  },
+  {
+    "id": 1,
+    "prompt": "Compose a slow, emotional Carnatic alapana in Bhairavi raga featuring violin and tanpura drones, with microtonal ornamentations and free rhythm."
+  },
+  {
+    "id": 2,
+    "prompt": "Create a 1980s synthwave instrumental with lush analog synths, driving bassline, and retro drum machine patterns at 110 BPM."
+  },
+  {
+    "id": 3,
+    "prompt": "Write a lively flamenco guitar solo with rasgueado strumming, fast picado runs, and rhythmic hand claps (palmas)."
+  },
+  {
+    "id": 4,
+    "prompt": "Produce a deep house track with smooth chord progressions, soft vocal chops, and a groovy 4/4 beat at 120 BPM."
+  },
+  {
+    "id": 5,
+    "prompt": "Generate a traditional Irish folk dance tune in D major with fiddle, tin whistle, and bodhr\u00e1n percussion in 6/8 time."
+  },
+  {
+    "id": 6,
+    "prompt": "Compose a cinematic horror soundtrack cue using dissonant string clusters, eerie synth pads, and sudden percussive hits."
+  },
+  {
+    "id": 7,
+    "prompt": "Create a jazzy bossa nova piece with nylon-string guitar, soft brushes on drums, upright bass, and a smooth vocal melody."
+  },
+  {
+    "id": 8,
+    "prompt": "Write a fast-paced bluegrass banjo instrumental featuring roll patterns, fiddle, and double bass accompaniment."
+  },
+  {
+    "id": 9,
+    "prompt": "Produce an upbeat pop-rock anthem with distorted electric guitars, catchy vocal hooks, and driving drums."
+  },
+  {
+    "id": 10,
+    "prompt": "Generate an ambient drone track with evolving textures, slow modulations, and subtle field recordings."
+  },
+  {
+    "id": 11,
+    "prompt": "Compose a baroque harpsichord suite in G minor, incorporating ornamentation and counterpoint typical of the period."
+  },
+  {
+    "id": 12,
+    "prompt": "Create a hip-hop beat inspired by 90s boom bap with sampled jazz loops, vinyl crackle, and punchy drums."
+  },
+  {
+    "id": 13,
+    "prompt": "Write a melancholic solo cello piece with lyrical phrasing, slow tempo, and expressive dynamics."
+  },
+  {
+    "id": 14,
+    "prompt": "Produce a reggae rhythm track with offbeat guitar skanks, prominent bassline, and steady one-drop drum pattern."
+  },
+  {
+    "id": 15,
+    "prompt": "Generate a classical Indian tabla solo in Teental tala with complex rhythmic improvisations and bols."
+  },
+  {
+    "id": 16,
+    "prompt": "Compose an uplifting gospel choir arrangement with powerful harmonies, call-and-response vocals, and organ accompaniment."
+  },
+  {
+    "id": 17,
+    "prompt": "Create a high-energy EDM festival drop featuring heavy sidechain compression, supersaw synths, and massive kicks at 128 BPM."
+  },
+  {
+    "id": 18,
+    "prompt": "Write a smooth R&B slow jam with sultry vocal lines, lush keyboard pads, and groovy drum machine beats."
+  },
+  {
+    "id": 19,
+    "prompt": "Produce a funk instrumental with slap bass, wah guitar effects, tight horn section, and syncopated drum grooves."
+  },
+  {
+    "id": 20,
+    "prompt": "Generate a minimalist piano etude focusing on repetitive motifs and gradual dynamic build-up in C major."
+  },
+  {
+    "id": 21,
+    "prompt": "Compose a traditional Japanese koto and shakuhachi duet with pentatonic scales and serene atmosphere."
+  },
+  {
+    "id": 22,
+    "prompt": "Create a metalcore breakdown with chugging guitars, double bass drums, and aggressive screamed vocals."
+  },
+  {
+    "id": 23,
+    "prompt": "Write a New Orleans jazz parade tune with brass section, walking bass, and syncopated rhythms."
+  },
+  {
+    "id": 24,
+    "prompt": "Produce a soothing new age track with acoustic guitar, ambient synth pads, and gentle percussion."
+  },
+  {
+    "id": 25,
+    "prompt": "Generate a Latin salsa dance tune with congas, timbales, piano montunos, and brass hits."
+  },
+  {
+    "id": 26,
+    "prompt": "Compose a contemporary classical string quartet piece with atonal harmony and rhythmic complexity."
+  },
+  {
+    "id": 27,
+    "prompt": "Create a dreamy shoegaze track with layered reverb guitars, soft vocals, and slow tempos."
+  },
+  {
+    "id": 28,
+    "prompt": "Write a Broadway-style musical theater number with big band orchestration and energetic vocals."
+  },
+  {
+    "id": 29,
+    "prompt": "Produce a traditional West African djembe ensemble with polyrhythmic patterns and call-and-response chants."
+  },
+  {
+    "id": 30,
+    "prompt": "Generate a melancholic indie folk ballad with acoustic guitar, gentle percussion, and heartfelt lyrics."
+  },
+  {
+    "id": 31,
+    "prompt": "Compose an uplifting cinematic orchestral piece with soaring strings, brass fanfares, and dynamic percussion."
+  },
+  {
+    "id": 32,
+    "prompt": "Create a synth-pop track inspired by 80s artists with arpeggiated synths, drum machines, and catchy chorus."
+  },
+  {
+    "id": 33,
+    "prompt": "Write a complex jazz fusion instrumental featuring electric guitar, keyboard solos, and odd meters."
+  },
+  {
+    "id": 34,
+    "prompt": "Produce a soulful Motown-style track with rich vocal harmonies, funky bassline, and tight horn arrangements."
+  },
+  {
+    "id": 35,
+    "prompt": "Generate an epic fantasy soundtrack theme with choir, orchestral strings, and dramatic percussion."
+  },
+  {
+    "id": 36,
+    "prompt": "Compose a smooth jazz ballad with saxophone lead, soft piano, and laid-back drums."
+  },
+  {
+    "id": 37,
+    "prompt": "Create a bluegrass gospel tune with banjo, mandolin, and vocal harmonies in three-part harmony."
+  },
+  {
+    "id": 38,
+    "prompt": "Write a classic blues shuffle with electric guitar, walking bass, and shuffles on drums."
+  },
+  {
+    "id": 39,
+    "prompt": "Produce a cinematic trailer track with hybrid orchestration, synthetic textures, and dramatic crescendos."
+  },
+  {
+    "id": 40,
+    "prompt": "Generate an upbeat ska song with walking bass, offbeat guitar chords, brass section, and energetic vocals."
+  },
+  {
+    "id": 41,
+    "prompt": "Compose a delicate harp solo in a modal scale with flowing arpeggios and soft dynamics."
+  },
+  {
+    "id": 42,
+    "prompt": "Create a progressive rock composition with odd time signatures, extended solos, and dynamic shifts."
+  },
+  {
+    "id": 43,
+    "prompt": "Write a traditional Arabic maqam piece featuring oud, qanun, and darbuka rhythms."
+  },
+  {
+    "id": 44,
+    "prompt": "Produce a chillwave instrumental with lo-fi synths, smooth bass, and relaxed beats."
+  },
+  {
+    "id": 45,
+    "prompt": "Generate an upbeat K-pop dance track with catchy hooks, synth layers, and powerful beats."
+  },
+  {
+    "id": 46,
+    "prompt": "Compose a heartfelt solo piano nocturne in a romantic style with expressive phrasing."
+  },
+  {
+    "id": 47,
+    "prompt": "Create a Bollywood dance number with energetic rhythms, traditional instruments, and modern production."
+  },
+  {
+    "id": 48,
+    "prompt": "Write a classic swing jazz tune with big band horns, walking bass, and vibrant rhythms."
+  },
+  {
+    "id": 49,
+    "prompt": "Produce a cinematic sci-fi underscore with atmospheric synth pads, rhythmic pulses, and ethereal effects."
+  },
+  {
+    "id": 50,
+    "prompt": "Generate a reggae dub track with deep bass, echo effects, and slow tempo."
+  },
+  {
+    "id": 51,
+    "prompt": "Compose a joyful mariachi ensemble piece with trumpets, violins, and rhythmic guitars."
+  },
+  {
+    "id": 52,
+    "prompt": "Create a folk rock anthem with acoustic guitars, harmonica, and anthemic chorus."
+  },
+  {
+    "id": 53,
+    "prompt": "Write a post-punk style track with angular guitar riffs, driving bass, and energetic drums."
+  },
+  {
+    "id": 54,
+    "prompt": "Produce an epic orchestral battle theme with brass, percussion, choir, and fast-paced strings."
+  },
+  {
+    "id": 55,
+    "prompt": "Generate a melancholic electronic ballad with synth pads, slow beats, and emotional melodies."
+  },
+  {
+    "id": 56,
+    "prompt": "Compose a rhythmic samba with vibrant percussion, brass sections, and danceable groove."
+  },
+  {
+    "id": 57,
+    "prompt": "Create a traditional Celtic ballad with harp, fiddle, and storytelling vocals."
+  },
+  {
+    "id": 58,
+    "prompt": "Write an energetic electro house track with driving bass, synth stabs, and festival energy."
+  },
+  {
+    "id": 59,
+    "prompt": "Produce a smooth lounge jazz tune with electric piano, upright bass, and soft percussion."
+  },
+  {
+    "id": 60,
+    "prompt": "Generate a minimalist ambient piano piece with sparse notes and slow harmonic changes."
+  },
+  {
+    "id": 61,
+    "prompt": "Compose a folk-inspired Americana song with acoustic guitars, fiddle, and heartfelt lyrics."
+  },
+  {
+    "id": 62,
+    "prompt": "Create a powerful gospel choir piece with rich harmonies, organ, and clapping rhythms."
+  },
+  {
+    "id": 63,
+    "prompt": "Write a modern trap instrumental with heavy 808s, hi-hat rolls, and dark synths."
+  },
+  {
+    "id": 64,
+    "prompt": "Produce a dancehall track with catchy rhythms, vocal chops, and tropical instrumentation."
+  },
+  {
+    "id": 65,
+    "prompt": "Generate a nostalgic 90s R&B slow jam with smooth vocals and soulful chords."
+  },
+  {
+    "id": 66,
+    "prompt": "Compose a bright and cheerful children's song with simple melodies and playful instrumentation."
+  },
+  {
+    "id": 67,
+    "prompt": "Create a traditional Japanese koto and shakuhachi duet with serene and meditative mood."
+  },
+  {
+    "id": 68,
+    "prompt": "Write a powerful rock ballad with soaring electric guitar solos and emotional vocals."
+  },
+  {
+    "id": 69,
+    "prompt": "Produce a reggae fusion track blending traditional reggae rhythms with modern pop elements."
+  },
+  {
+    "id": 70,
+    "prompt": "Generate an epic orchestral overture with bold themes, dynamic contrasts, and rich textures."
+  },
+  {
+    "id": 71,
+    "prompt": "Compose a cinematic love theme with lush strings, gentle piano, and tender melodies."
+  },
+  {
+    "id": 72,
+    "prompt": "Create a vibrant jazz big band chart with swing feel, horn riffs, and energetic solos."
+  },
+  {
+    "id": 73,
+    "prompt": "Write a delicate impressionist piano piece with flowing harmonies and soft dynamics."
+  },
+  {
+    "id": 74,
+    "prompt": "Produce an atmospheric trip-hop track with downtempo beats, sampled vocals, and smoky synths."
+  },
+  {
+    "id": 75,
+    "prompt": "Generate a high-tempo polka dance with accordion, brass, and lively rhythm."
+  },
+  {
+    "id": 76,
+    "prompt": "Compose a smooth Latin jazz ballad with nylon-string guitar, soft percussion, and expressive horns."
+  },
+  {
+    "id": 77,
+    "prompt": "Create a blues rock shuffle with electric guitar riffs, driving rhythm section, and soulful vocals."
+  },
+  {
+    "id": 78,
+    "prompt": "Write a cinematic horror suspense track with tension-building strings, eerie effects, and pulsing beats."
+  },
+  {
+    "id": 79,
+    "prompt": "Produce a catchy indie pop tune with jangly guitars, upbeat drums, and sing-along chorus."
+  },
+  {
+    "id": 80,
+    "prompt": "Generate a festive holiday orchestral piece with sleigh bells, strings, and brass fanfares."
+  },
+  {
+    "id": 81,
+    "prompt": "Compose a mellow acoustic singer-songwriter track with heartfelt lyrics and fingerstyle guitar."
+  },
+  {
+    "id": 82,
+    "prompt": "Create a cinematic Western theme with twangy guitars, harmonica, and sweeping orchestration."
+  },
+  {
+    "id": 83,
+    "prompt": "Write a dynamic funk groove with wah guitar, tight bass, and horn stabs."
+  },
+  {
+    "id": 84,
+    "prompt": "Produce an ethereal new age track with synth pads, flute melodies, and gentle percussion."
+  },
+  {
+    "id": 85,
+    "prompt": "Generate a driving techno track with repetitive synth lines, pounding kick drum, and dark atmosphere."
+  },
+  {
+    "id": 86,
+    "prompt": "Compose a passionate tango with dramatic violin lines, piano, and rhythmic guitar."
+  },
+  {
+    "id": 87,
+    "prompt": "Create a soulful blues ballad with expressive guitar solos and heartfelt vocals."
+  },
+  {
+    "id": 88,
+    "prompt": "Write an uplifting orchestral fanfare with brass, percussion, and soaring melodies."
+  },
+  {
+    "id": 89,
+    "prompt": "Produce a lo-fi chillhop beat with warm vinyl crackle, mellow keys, and laid-back drums."
+  },
+  {
+    "id": 90,
+    "prompt": "Compose a lively polyrhythmic Afrobeat track with layered percussion, dynamic horns, and call-and-response vocals."
+  },
+  {
+    "id": 91,
+    "prompt": "Create a romantic violin and piano duet in a late-Romantic style with expressive melodies and rich harmonies."
+  },
+  {
+    "id": 92,
+    "prompt": "Write a fast-paced electronic drum and bass track with heavy basslines and intricate breakbeats."
+  },
+  {
+    "id": 93,
+    "prompt": "Produce a soulful neo-soul song with smooth vocals, jazzy chords, and laid-back grooves."
+  },
+  {
+    "id": 94,
+    "prompt": "Generate a traditional Chinese guzheng solo with pentatonic melodies and expressive techniques."
+  },
+  {
+    "id": 95,
+    "prompt": "Compose an epic orchestral sci-fi soundtrack with hybrid synths, choir, and rhythmic pulses."
+  },
+  {
+    "id": 96,
+    "prompt": "Create a catchy surf rock instrumental with twangy guitars, driving drums, and upbeat tempo."
+  },
+  {
+    "id": 97,
+    "prompt": "Write a mellow reggae ballad with smooth vocals, gentle guitar skanks, and soft percussion."
+  },
+  {
+    "id": 98,
+    "prompt": "Produce a fast bluegrass fiddle tune with banjo rolls, upright bass, and brisk tempo."
+  },
+  {
+    "id": 99,
+    "prompt": "Generate a dark ambient soundscape with droning textures, subtle dissonance, and slow evolving layers."
+  },
+  {
+    "id": 100,
+    "prompt": "Compose a joyous mariachi dance piece with bright trumpets, violins, and rhythmic guitar strumming."
+  },
+  {
+    "id": 101,
+    "prompt": "Create a classic 12-bar blues shuffle with electric guitar, walking bass, and swinging drums."
+  },
+  {
+    "id": 102,
+    "prompt": "Write an experimental minimalist piano piece using repetitive patterns and sparse notes."
+  },
+  {
+    "id": 103,
+    "prompt": "Produce a dance-pop track with catchy synth leads, upbeat tempo, and strong vocal hooks."
+  },
+  {
+    "id": 104,
+    "prompt": "Generate a serene Celtic harp composition with flowing arpeggios and modal melodies."
+  },
+  {
+    "id": 105,
+    "prompt": "Compose a vibrant salsa instrumental featuring congas, piano montunos, and brass punches."
+  },
+  {
+    "id": 106,
+    "prompt": "Create a nostalgic 90s R&B groove with smooth synths, soulful vocals, and laid-back beats."
+  },
+  {
+    "id": 107,
+    "prompt": "Write a dramatic film noir jazz piece with smoky saxophone, walking bass, and brushes on drums."
+  },
+  {
+    "id": 108,
+    "prompt": "Produce a high-energy EDM trance anthem with layered synth arpeggios, sidechained pads, and uplifting melodies."
+  },
+  {
+    "id": 109,
+    "prompt": "Generate a relaxing new age guitar piece with ambient textures and slow melodic lines."
+  },
+  {
+    "id": 110,
+    "prompt": "Compose a traditional Japanese shakuhachi and koto duet with meditative, modal melodies."
+  },
+  {
+    "id": 111,
+    "prompt": "Create a powerful metal riff with heavy distortion, palm-muted chugs, and double kick drums."
+  },
+  {
+    "id": 112,
+    "prompt": "Write a classic swing era big band tune with brass section riffs, walking bass, and energetic solos."
+  },
+  {
+    "id": 113,
+    "prompt": "Produce a chill lo-fi hip-hop beat with mellow Rhodes chords, vinyl crackle, and slow drum patterns."
+  },
+  {
+    "id": 114,
+    "prompt": "Generate a bright and lively ska punk track with upstroke guitars, fast drums, and energetic brass."
+  },
+  {
+    "id": 115,
+    "prompt": "Compose a tender solo piano nocturne in a romantic style with expressive phrasing and subtle dynamics."
+  },
+  {
+    "id": 116,
+    "prompt": "Create an upbeat folk rock song with acoustic guitars, harmonicas, and driving rhythms."
+  },
+  {
+    "id": 117,
+    "prompt": "Write a cinematic fantasy theme with orchestral strings, choir, and heroic brass fanfares."
+  },
+  {
+    "id": 118,
+    "prompt": "Produce a smooth jazz ballad with saxophone lead, electric piano, and soft percussion."
+  },
+  {
+    "id": 119,
+    "prompt": "Generate a traditional Middle Eastern maqam piece with oud, ney flute, and darbuka rhythms."
+  },
+  {
+    "id": 120,
+    "prompt": "Compose a funky groove with slap bass, wah guitar, and tight horn section."
+  },
+  {
+    "id": 121,
+    "prompt": "Create a melancholic indie folk tune with fingerpicked guitar, gentle vocals, and soft percussion."
+  },
+  {
+    "id": 122,
+    "prompt": "Write a contemporary classical piece for string quartet with atonal harmonies and complex rhythms."
+  },
+  {
+    "id": 123,
+    "prompt": "Produce a high-tempo techno track with pulsating bass, sharp hi-hats, and repetitive synth motifs."
+  },
+  {
+    "id": 124,
+    "prompt": "Generate an epic orchestral battle theme with dramatic percussion, choir, and fast strings."
+  },
+  {
+    "id": 125,
+    "prompt": "Compose a smooth R&B slow jam with lush keyboard pads, groovy drums, and soulful vocals."
+  },
+  {
+    "id": 126,
+    "prompt": "Create a vibrant Latin jazz piece with nylon-string guitar, congas, and brass solos."
+  },
+  {
+    "id": 127,
+    "prompt": "Write a relaxing ambient piano and synth piece with slow harmonic movement and gentle textures."
+  },
+  {
+    "id": 128,
+    "prompt": "Produce a traditional Irish reel with fiddle, accordion, and rhythmic foot tapping."
+  },
+  {
+    "id": 129,
+    "prompt": "Generate a driving hard rock track with crunchy guitars, powerful drums, and anthemic vocals."
+  },
+  {
+    "id": 130,
+    "prompt": "Compose a festive holiday orchestral medley with sleigh bells, strings, and brass fanfares."
+  },
+  {
+    "id": 131,
+    "prompt": "Create a soulful Motown-inspired track with rich vocal harmonies, funky bassline, and horn section."
+  },
+  {
+    "id": 132,
+    "prompt": "Write a dramatic cinematic underscore with suspenseful strings, low brass, and tension-building percussion."
+  },
+  {
+    "id": 133,
+    "prompt": "Produce a smooth lounge jazz instrumental with electric piano, upright bass, and brushed drums."
+  },
+  {
+    "id": 134,
+    "prompt": "Generate an energetic punk rock anthem with fast guitars, driving bass, and aggressive vocals."
+  },
+  {
+    "id": 135,
+    "prompt": "Compose a dreamy shoegaze track with layered reverb guitars, ethereal vocals, and slow tempo."
+  },
+  {
+    "id": 136,
+    "prompt": "Create a traditional Balinese gamelan piece with metallophones, gongs, and complex rhythmic cycles."
+  },
+  {
+    "id": 137,
+    "prompt": "Write a bright and catchy pop tune with upbeat synths, drum machines, and infectious chorus."
+  },
+  {
+    "id": 138,
+    "prompt": "Produce a minimalist electronic piece with repetitive synth patterns and subtle dynamic shifts."
+  },
+  {
+    "id": 139,
+    "prompt": "Generate a cinematic love theme with lush strings, soft piano, and gentle woodwinds."
+  },
+  {
+    "id": 140,
+    "prompt": "Compose a fiery flamenco dance with fast guitar strumming, rhythmic hand claps, and passionate melodies."
+  },
+  {
+    "id": 141,
+    "prompt": "Create a moody trip-hop track with slow beats, sampled vocals, and atmospheric synths."
+  },
+  {
+    "id": 142,
+    "prompt": "Write a jazzy bossa nova piece with nylon-string guitar, soft percussion, and smooth vocals."
+  },
+  {
+    "id": 143,
+    "prompt": "Produce a driving drum and bass track with rolling breaks, deep bass, and fast tempo."
+  },
+  {
+    "id": 144,
+    "prompt": "Generate a peaceful meditation track with Tibetan singing bowls, drones, and gentle ambient sounds."
+  },
+  {
+    "id": 145,
+    "prompt": "Compose an energetic big band swing number with brass riffs, walking bass, and dynamic solos."
+  },
+  {
+    "id": 146,
+    "prompt": "Create a traditional Appalachian folk tune with fiddle, banjo, and upright bass."
+  },
+  {
+    "id": 147,
+    "prompt": "Write an atmospheric electronic ballad with lush pads, slow beats, and emotive synth leads."
+  },
+  {
+    "id": 148,
+    "prompt": "Produce a fast-paced metalcore track with heavy riffs, blast beats, and aggressive vocals."
+  },
+  {
+    "id": 149,
+    "prompt": "Generate a catchy indie pop song with jangly guitars, upbeat rhythms, and sing-along chorus."
+  },
+  {
+    "id": 150,
+    "prompt": "Compose a classical piano sonata movement in sonata form with balanced themes and development."
+  },
+  {
+    "id": 151,
+    "prompt": "Create a vibrant samba rhythm track with surdo, tamborim, and bright brass lines."
+  },
+  {
+    "id": 152,
+    "prompt": "Write a smooth neo-soul instrumental with electric piano, laid-back drums, and mellow bass."
+  },
+  {
+    "id": 153,
+    "prompt": "Produce a cinematic fantasy ballad with orchestral strings, harp, and angelic choir."
+  },
+  {
+    "id": 154,
+    "prompt": "Generate a rhythmic reggaeton beat with dembow pattern, synth leads, and vocal chops."
+  },
+  {
+    "id": 155,
+    "prompt": "Compose a gentle lullaby with acoustic guitar, soft vocals, and simple harmonies."
+  },
+  {
+    "id": 156,
+    "prompt": "Create a powerful orchestral finale with brass fanfares, timpani rolls, and sweeping strings."
+  },
+  {
+    "id": 157,
+    "prompt": "Write a laid-back surf rock instrumental with twangy guitar, fast drums, and reverb effects."
+  },
+  {
+    "id": 158,
+    "prompt": "Produce a deep dubstep track with wobble bass, half-time beats, and dark atmospheres."
+  },
+  {
+    "id": 159,
+    "prompt": "Generate a nostalgic folk ballad with storytelling lyrics, acoustic guitar, and fiddle."
+  },
+  {
+    "id": 160,
+    "prompt": "Compose an upbeat electro-pop track with catchy synth riffs, danceable beats, and vibrant vocals."
+  },
+  {
+    "id": 161,
+    "prompt": "Create a meditative sitar and tabla duet with traditional Indian classical phrasing."
+  },
+  {
+    "id": 162,
+    "prompt": "Write a dramatic film score cue with tension-building strings, percussion, and brass hits."
+  },
+  {
+    "id": 163,
+    "prompt": "Produce a soulful blues ballad with expressive guitar solos, slow tempo, and heartfelt vocals."
+  },
+  {
+    "id": 164,
+    "prompt": "Generate a high-energy funk track with slap bass, wah guitar, and tight horn section."
+  },
+  {
+    "id": 165,
+    "prompt": "Compose a serene new age piece with ambient synth pads, gentle piano, and nature sounds."
+  },
+  {
+    "id": 166,
+    "prompt": "Create a powerful rock anthem with distorted guitars, driving drums, and anthemic chorus."
+  },
+  {
+    "id": 167,
+    "prompt": "Compose a baroque-style harpsichord suite movement featuring ornamented melodies and counterpoint."
+  },
+  {
+    "id": 168,
+    "prompt": "Create a rhythmic Afro-Cuban jazz piece with clave patterns, brass riffs, and improvised solos."
+  },
+  {
+    "id": 169,
+    "prompt": "Write a dreamy synthwave track with lush pads, retro arpeggios, and steady drum machines."
+  },
+  {
+    "id": 170,
+    "prompt": "Produce a fiery flamenco guitar solo with rapid picados, rasgueados, and rhythmic comp\u00e1s."
+  },
+  {
+    "id": 171,
+    "prompt": "Generate a classical string quartet in a romantic style with lyrical melodies and rich harmonies."
+  },
+  {
+    "id": 172,
+    "prompt": "Compose an upbeat country rock tune with twangy guitars, steady drums, and harmony vocals."
+  },
+  {
+    "id": 173,
+    "prompt": "Create a dark trip-hop instrumental with moody synths, slow beats, and atmospheric textures."
+  },
+  {
+    "id": 174,
+    "prompt": "Write a festive klezmer dance with clarinet leads, accordion, and lively rhythms."
+  },
+  {
+    "id": 175,
+    "prompt": "Produce an electronic chillout track with ambient pads, smooth basslines, and slow percussion."
+  },
+  {
+    "id": 176,
+    "prompt": "Generate a traditional West African drum ensemble piece with djembe, talking drum, and polyrhythms."
+  },
+  {
+    "id": 177,
+    "prompt": "Compose a grand orchestral overture in the Romantic style with bold themes and dynamic contrasts."
+  },
+  {
+    "id": 178,
+    "prompt": "Create a smooth jazz fusion tune with electric guitar, synths, and complex rhythms."
+  },
+  {
+    "id": 179,
+    "prompt": "Write a melancholic indie pop ballad with fingerpicked guitar, soft synths, and emotive vocals."
+  },
+  {
+    "id": 180,
+    "prompt": "Produce a driving progressive metal track with complex time signatures and heavy riffs."
+  },
+  {
+    "id": 181,
+    "prompt": "Generate a lively polka with accordion, clarinet, and fast-paced rhythms."
+  },
+  {
+    "id": 182,
+    "prompt": "Compose a soulful gospel choir piece with rich harmonies and call-and-response sections."
+  },
+  {
+    "id": 183,
+    "prompt": "Create a bouncy funk track with syncopated bass, brass stabs, and tight drums."
+  },
+  {
+    "id": 184,
+    "prompt": "Write an atmospheric ambient drone piece with layered synth textures and evolving tones."
+  },
+  {
+    "id": 185,
+    "prompt": "Produce a classic rock ballad with electric guitar solos, steady rhythm, and heartfelt vocals."
+  },
+  {
+    "id": 186,
+    "prompt": "Generate a lively Cajun dance tune featuring fiddle, accordion, and rhythmic percussion."
+  },
+  {
+    "id": 187,
+    "prompt": "Compose a minimalist piano piece inspired by Steve Reich with repetitive patterns and gradual shifts."
+  },
+  {
+    "id": 188,
+    "prompt": "Create a heartfelt R&B slow jam with smooth vocals, lush chords, and subtle beats."
+  },
+  {
+    "id": 189,
+    "prompt": "Write an energetic ska track with upbeat guitars, fast drums, and brass accents."
+  },
+  {
+    "id": 190,
+    "prompt": "Produce a dramatic cinematic chase scene score with intense strings, percussion, and brass."
+  },
+  {
+    "id": 191,
+    "prompt": "Generate a peaceful folk lullaby with acoustic guitar, gentle vocals, and simple melodies."
+  },
+  {
+    "id": 192,
+    "prompt": "Compose a lively Balkan brass band piece with complex rhythms and powerful horn lines."
+  },
+  {
+    "id": 193,
+    "prompt": "Create a modern trap beat with heavy 808s, hi-hat rolls, and dark synths."
+  },
+  {
+    "id": 194,
+    "prompt": "Write a lush impressionist piano prelude with flowing harmonies and subtle dynamics."
+  },
+  {
+    "id": 195,
+    "prompt": "Produce a traditional bluegrass tune with banjo rolls, fiddle, and upright bass."
+  },
+  {
+    "id": 196,
+    "prompt": "Generate a driving house music track with four-on-the-floor beat, synth bass, and vocal chops."
+  },
+  {
+    "id": 197,
+    "prompt": "Compose a joyful children's choir song with catchy melody and bright instrumentation."
+  },
+  {
+    "id": 198,
+    "prompt": "Create a sophisticated bebop jazz tune with fast tempo, walking bass, and intricate solos."
+  },
+  {
+    "id": 199,
+    "prompt": "Write a soothing spa music piece with gentle flute, harp, and soft synth pads."
+  },
+  {
+    "id": 200,
+    "prompt": "Produce a classic Motown-style soul track with tight rhythm section and rich backing vocals."
+  },
+  {
+    "id": 201,
+    "prompt": "Generate an intense power metal anthem with soaring vocals, fast guitar riffs, and double kick drums."
+  },
+  {
+    "id": 202,
+    "prompt": "Compose a romantic French chanson with accordion, acoustic guitar, and expressive vocals."
+  },
+  {
+    "id": 203,
+    "prompt": "Create a funky disco track with steady groove, rhythmic guitars, and lush strings."
+  },
+  {
+    "id": 204,
+    "prompt": "Write a cinematic horror theme with eerie strings, dissonant chords, and unsettling effects."
+  },
+  {
+    "id": 205,
+    "prompt": "Produce a mellow acoustic folk song with gentle strumming, harmonica, and storytelling lyrics."
+  },
+  {
+    "id": 206,
+    "prompt": "Generate a vibrant Indian classical raga performance featuring sitar and tabla."
+  },
+  {
+    "id": 207,
+    "prompt": "Compose a fast-paced techno track with pulsating bass, synthetic leads, and precise hi-hats."
+  },
+  {
+    "id": 208,
+    "prompt": "Create an elegant waltz for piano and strings in a classical Viennese style."
+  },
+  {
+    "id": 209,
+    "prompt": "Write a catchy reggae tune with offbeat rhythms, warm bass, and laid-back vocals."
+  },
+  {
+    "id": 210,
+    "prompt": "Produce a bright and energetic pop punk track with distorted guitars and anthemic chorus."
+  },
+  {
+    "id": 211,
+    "prompt": "Generate a meditative Tibetan chant with drone and rhythmic bell patterns."
+  },
+  {
+    "id": 212,
+    "prompt": "Compose a dramatic neoclassical piece for full orchestra with powerful brass and strings."
+  },
+  {
+    "id": 213,
+    "prompt": "Create a soulful jazz ballad with smooth trumpet, piano, and upright bass."
+  },
+  {
+    "id": 214,
+    "prompt": "Write a high-energy ska punk track with brass section, fast guitars, and lively drums."
+  },
+  {
+    "id": 215,
+    "prompt": "Produce a chill lo-fi hip-hop beat with vinyl crackle, mellow Rhodes, and relaxed drum groove."
+  },
+  {
+    "id": 216,
+    "prompt": "Generate an uplifting gospel choir anthem with energetic rhythms and joyful vocals."
+  },
+  {
+    "id": 217,
+    "prompt": "Compose a rhythmic West African kora and djembe duet with traditional patterns."
+  },
+  {
+    "id": 218,
+    "prompt": "Create a smooth contemporary R&B track with deep bass, synth layers, and soulful singing."
+  },
+  {
+    "id": 219,
+    "prompt": "Write a dramatic orchestral film score cue with tension-building strings and percussion."
+  },
+  {
+    "id": 220,
+    "prompt": "Produce a nostalgic synth-pop song with 80s-style pads, catchy melodies, and electronic drums."
+  },
+  {
+    "id": 221,
+    "prompt": "Generate a lively traditional Irish jig with fiddle, tin whistle, and bodhr\u00e1n."
+  },
+  {
+    "id": 222,
+    "prompt": "Compose a peaceful piano nocturne with delicate phrasing and flowing harmonies."
+  },
+  {
+    "id": 223,
+    "prompt": "Create a hard-hitting trap beat with booming 808s, fast hi-hats, and dark synths."
+  },
+  {
+    "id": 224,
+    "prompt": "Write a romantic flamenco-inspired guitar piece with rhythmic hand claps and melodic flourishes."
+  },
+  {
+    "id": 225,
+    "prompt": "Produce a dynamic progressive rock track with shifting time signatures and complex arrangements."
+  },
+  {
+    "id": 226,
+    "prompt": "Generate an ethereal new age track with ambient synths, soft pads, and slow evolving textures."
+  },
+  {
+    "id": 227,
+    "prompt": "Compose a joyful mariachi song with bright trumpets, violins, and lively rhythms."
+  },
+  {
+    "id": 228,
+    "prompt": "Create a moody post-rock instrumental with atmospheric guitars, slow build-ups, and crescendo."
+  },
+  {
+    "id": 229,
+    "prompt": "Write a fast-paced bluegrass tune with banjo, mandolin, and fiddle interplay."
+  },
+  {
+    "id": 230,
+    "prompt": "Produce a vibrant salsa track with congas, piano montunos, and punchy brass lines."
+  },
+  {
+    "id": 231,
+    "prompt": "Generate a contemplative minimalist piano piece with sparse notes and subtle dynamics."
+  },
+  {
+    "id": 232,
+    "prompt": "Compose a funky jazz-fusion groove with slap bass, electric piano, and syncopated drums."
+  },
+  {
+    "id": 233,
+    "prompt": "Create an energetic punk rock song with driving guitars, fast drums, and shout-along chorus."
+  },
+  {
+    "id": 234,
+    "prompt": "Write a smooth bossa nova track with nylon-string guitar, gentle percussion, and soft vocals."
+  },
+  {
+    "id": 235,
+    "prompt": "Produce a cinematic fantasy theme with sweeping strings, choir, and heroic brass fanfares."
+  },
+  {
+    "id": 236,
+    "prompt": "Generate a relaxed surf rock instrumental with twangy guitar, reverb effects, and driving drums."
+  },
+  {
+    "id": 237,
+    "prompt": "Compose a soulful blues ballad with expressive guitar solos, slow tempo, and heartfelt vocals."
+  },
+  {
+    "id": 238,
+    "prompt": "Create a vibrant EDM festival anthem with big drops, synth leads, and energetic beats."
+  },
+  {
+    "id": 239,
+    "prompt": "Write a soothing ambient guitar piece with looping textures and gentle melodies."
+  },
+  {
+    "id": 240,
+    "prompt": "Produce a traditional Japanese shakuhachi and koto duet with meditative phrasing and modal scales."
+  },
+  {
+    "id": 241,
+    "prompt": "Generate an uplifting orchestral finale with full brass, timpani rolls, and soaring strings."
+  },
+  {
+    "id": 242,
+    "prompt": "Compose a catchy indie pop tune with jangly guitars, upbeat rhythms, and sing-along chorus."
+  },
+  {
+    "id": 243,
+    "prompt": "Create a dramatic jazz big band piece with swinging brass, walking bass, and dynamic solos."
+  },
+  {
+    "id": 244,
+    "prompt": "Write a peaceful meditation track with Tibetan bowls, drones, and slow evolving textures."
+  },
+  {
+    "id": 245,
+    "prompt": "Compose a lively Renaissance dance with lute, viols, and percussion in a triple meter."
+  },
+  {
+    "id": 246,
+    "prompt": "Create a futuristic synth-pop track with glossy textures, catchy hooks, and upbeat tempo."
+  },
+  {
+    "id": 247,
+    "prompt": "Write an emotional film noir jazz piece featuring moody piano, upright bass, and brush drums."
+  },
+  {
+    "id": 248,
+    "prompt": "Produce a vibrant Latin jazz fusion with congas, brass section, and improvisational solos."
+  },
+  {
+    "id": 249,
+    "prompt": "Generate a soothing classical guitar nocturne with arpeggiated chords and lyrical melody."
+  },
+  {
+    "id": 250,
+    "prompt": "Compose a dynamic brass fanfare with bold, rhythmic motifs and powerful harmonies."
+  },
+  {
+    "id": 251,
+    "prompt": "Create a smooth neo-soul groove with warm electric piano, lush chords, and soulful vocals."
+  },
+  {
+    "id": 252,
+    "prompt": "Write an energetic Balkan folk dance with asymmetric rhythms and lively clarinet lines."
+  },
+  {
+    "id": 253,
+    "prompt": "Produce a moody trip-hop track with haunting vocals, slow beats, and dark synth pads."
+  },
+  {
+    "id": 254,
+    "prompt": "Generate a cheerful children's folk song with simple melody, acoustic guitar, and hand claps."
+  },
+  {
+    "id": 255,
+    "prompt": "Compose an elegant classical sonata movement for piano with balanced themes and development."
+  },
+  {
+    "id": 256,
+    "prompt": "Create an uplifting EDM trance track with driving bass, arpeggiated synths, and euphoric build-ups."
+  },
+  {
+    "id": 257,
+    "prompt": "Write a sultry jazz ballad with trumpet lead, soft brushes on drums, and walking bass."
+  },
+  {
+    "id": 258,
+    "prompt": "Produce a gritty garage rock anthem with distorted guitars, raw vocals, and punchy drums."
+  },
+  {
+    "id": 259,
+    "prompt": "Generate a fast-paced bluegrass instrumental featuring banjo rolls and fiddle melodies."
+  },
+  {
+    "id": 260,
+    "prompt": "Compose a dramatic choral piece with rich harmonies and stirring dynamics."
+  },
+  {
+    "id": 261,
+    "prompt": "Create a dreamy chillwave track with hazy synths, slow beats, and lush textures."
+  },
+  {
+    "id": 262,
+    "prompt": "Write a traditional Celtic reel with fiddle, tin whistle, and rhythmic bodhr\u00e1n."
+  },
+  {
+    "id": 263,
+    "prompt": "Produce a dynamic progressive metal instrumental with odd meters and virtuosic solos."
+  },
+  {
+    "id": 264,
+    "prompt": "Generate a nostalgic 1950s doo-wop style vocal harmony track with simple instrumentation."
+  },
+  {
+    "id": 265,
+    "prompt": "Compose a serene new age piano and flute duet with gentle melodies and ambient backdrop."
+  },
+  {
+    "id": 266,
+    "prompt": "Create an energetic funk brass band piece with syncopated rhythms and punchy horn stabs."
+  },
+  {
+    "id": 267,
+    "prompt": "Write a romantic French impressionist piano piece inspired by Debussy or Ravel."
+  },
+  {
+    "id": 268,
+    "prompt": "Produce a heavy dubstep track with wobbling bass, aggressive drops, and sharp percussion."
+  },
+  {
+    "id": 269,
+    "prompt": "Generate a lively mariachi dance with trumpets, violins, and rhythmic guitarr\u00f3n."
+  },
+  {
+    "id": 270,
+    "prompt": "Compose a tender lullaby with acoustic guitar, soft vocals, and soothing harmonies."
+  },
+  {
+    "id": 271,
+    "prompt": "Create a gritty blues-rock track with slide guitar, driving rhythm, and passionate vocals."
+  },
+  {
+    "id": 272,
+    "prompt": "Write a cinematic epic battle theme with full orchestra, choir, and intense percussion."
+  },
+  {
+    "id": 273,
+    "prompt": "Produce a relaxed lo-fi hip-hop beat with jazzy samples, vinyl crackle, and mellow drums."
+  },
+  {
+    "id": 274,
+    "prompt": "Generate a complex classical fugue with multiple voices and intricate counterpoint."
+  },
+  {
+    "id": 275,
+    "prompt": "Compose an upbeat ska instrumental with fast brass, skanking guitar, and energetic drums."
+  },
+  {
+    "id": 276,
+    "prompt": "Create a melancholic indie folk song with fingerpicked guitar and introspective lyrics."
+  },
+  {
+    "id": 277,
+    "prompt": "Write a grand baroque concerto grosso featuring strings and harpsichord with fast passages."
+  },
+  {
+    "id": 278,
+    "prompt": "Produce a modern R&B track with smooth synth pads, deep bass, and emotive vocals."
+  },
+  {
+    "id": 279,
+    "prompt": "Generate a vibrant African highlife piece with rhythmic guitar patterns and brass melodies."
+  },
+  {
+    "id": 280,
+    "prompt": "Compose a soft piano and cello duet with lyrical melodies and warm harmonies."
+  },
+  {
+    "id": 281,
+    "prompt": "Create an intense electronic breakbeat track with glitch effects and driving bass."
+  },
+  {
+    "id": 282,
+    "prompt": "Write a joyous gospel praise song with choir, organ, and call-and-response vocals."
+  },
+  {
+    "id": 283,
+    "prompt": "Produce a dreamy ambient soundscape with layered synth pads and slow evolving textures."
+  },
+  {
+    "id": 284,
+    "prompt": "Generate a fast flamenco rumba with hand claps, guitar strumming, and percussive rhythms."
+  },
+  {
+    "id": 285,
+    "prompt": "Compose a reflective solo violin piece with expressive phrasing and dynamic range."
+  },
+  {
+    "id": 286,
+    "prompt": "Create a funky disco house track with four-on-the-floor beat, catchy bassline, and brass hits."
+  },
+  {
+    "id": 287,
+    "prompt": "Write a dark horror movie soundtrack cue with dissonant strings and eerie sound effects."
+  },
+  {
+    "id": 288,
+    "prompt": "Produce a smooth jazz saxophone ballad with soft brushes and upright bass."
+  },
+  {
+    "id": 289,
+    "prompt": "Generate an uplifting orchestral waltz with sweeping strings and playful woodwinds."
+  },
+  {
+    "id": 290,
+    "prompt": "Compose a spirited bluegrass fiddle tune with rapid bowing and rhythmic drive."
+  },
+  {
+    "id": 291,
+    "prompt": "Create a chilled tropical house track with marimba, soft pads, and relaxed beats."
+  },
+  {
+    "id": 292,
+    "prompt": "Write a traditional Chinese guzheng and erhu duet with pentatonic melodies and expressive dynamics."
+  },
+  {
+    "id": 293,
+    "prompt": "Produce an energetic punk rock song with distorted guitars, fast tempo, and shout-along chorus."
+  },
+  {
+    "id": 294,
+    "prompt": "Generate a soulful blues shuffle with walking bass, swing drums, and expressive guitar solos."
+  },
+  {
+    "id": 295,
+    "prompt": "Compose a serene meditation piece with crystal bowls, gentle drones, and flowing textures."
+  },
+  {
+    "id": 296,
+    "prompt": "Create a powerful symphonic metal track with choir, heavy guitars, and orchestral arrangements."
+  },
+  {
+    "id": 297,
+    "prompt": "Write a light-hearted jazz swing tune with brass section, walking bass, and upbeat tempo."
+  },
+  {
+    "id": 298,
+    "prompt": "Produce a lush synth-pop ballad with atmospheric pads, dreamy vocals, and steady drums."
+  },
+  {
+    "id": 299,
+    "prompt": "Generate a vibrant Caribbean calypso with steel drums, upbeat rhythm, and catchy melodies."
+  },
+  {
+    "id": 300,
+    "prompt": "Compose a dramatic film noir theme with moody piano, muted trumpet, and walking bass."
+  },
+  {
+    "id": 301,
+    "prompt": "Create an ambient drone piece with slow evolving harmonies and textural layers."
+  },
+  {
+    "id": 302,
+    "prompt": "Write a festive brass band march with bold melodies and strong rhythmic drive."
+  },
+  {
+    "id": 303,
+    "prompt": "Produce a gentle folk ballad with acoustic guitar, harmonica, and heartfelt vocals."
+  },
+  {
+    "id": 304,
+    "prompt": "Generate a fast-paced electronic drum and bass track with rolling breakbeats and deep bass."
+  },
+  {
+    "id": 305,
+    "prompt": "Compose a romantic tango piece with bandone\u00f3n, violin, and passionate rhythms."
+  },
+  {
+    "id": 306,
+    "prompt": "Create a complex classical sonata for piano with intricate motifs and development."
+  },
+  {
+    "id": 307,
+    "prompt": "Write an upbeat Motown-style soul track with tight rhythm section and catchy chorus."
+  },
+  {
+    "id": 308,
+    "prompt": "Produce a smooth contemporary jazz track with electric piano, soft drums, and melodic guitar."
+  },
+  {
+    "id": 309,
+    "prompt": "Generate a lively Balkan brass festival piece with intricate rhythms and horn fanfares."
+  },
+  {
+    "id": 310,
+    "prompt": "Compose a meditative ambient piano piece with minimal notes and spacious phrasing."
+  },
+  {
+    "id": 311,
+    "prompt": "Create a funky hip-hop beat with groovy bassline, sharp snares, and soulful samples."
+  },
+  {
+    "id": 312,
+    "prompt": "Write a nostalgic 80s synthwave track with retro pads, arpeggiated bass, and steady drum machine."
+  },
+  {
+    "id": 313,
+    "prompt": "Produce a dramatic orchestral score with powerful brass, strings, and percussion hits."
+  },
+  {
+    "id": 314,
+    "prompt": "Compose a lively Baroque dance suite movement with harpsichord and strings featuring ornamentation."
+  },
+  {
+    "id": 315,
+    "prompt": "Create a soulful blues track with slide guitar, harmonica, and expressive vocals."
+  },
+  {
+    "id": 316,
+    "prompt": "Write an energetic Afrobeat groove with syncopated drums, horns, and call-and-response vocals."
+  },
+  {
+    "id": 317,
+    "prompt": "Produce a smooth chillout lounge track with jazzy chords, soft beats, and lush synth pads."
+  },
+  {
+    "id": 318,
+    "prompt": "Generate a fast-paced classical scherzo for piano with playful rhythms and rapid passages."
+  },
+  {
+    "id": 319,
+    "prompt": "Compose a joyful Latin salsa tune with brass, congas, and lively piano montunos."
+  },
+  {
+    "id": 320,
+    "prompt": "Create an atmospheric ambient track with evolving synth drones and subtle rhythmic pulses."
+  },
+  {
+    "id": 321,
+    "prompt": "Write a romantic French chanson with accordion, guitar, and emotive singing."
+  },
+  {
+    "id": 322,
+    "prompt": "Produce a dynamic jazz big band swing number with bold brass and walking bass."
+  },
+  {
+    "id": 323,
+    "prompt": "Generate a folk ballad featuring acoustic guitar, soft vocals, and storytelling lyrics."
+  },
+  {
+    "id": 324,
+    "prompt": "Compose a dramatic orchestral overture with sweeping strings and powerful brass."
+  },
+  {
+    "id": 325,
+    "prompt": "Create a funky disco groove with syncopated bass, rhythmic guitars, and vibrant horns."
+  },
+  {
+    "id": 326,
+    "prompt": "Write a contemplative solo cello piece with rich harmonics and expressive phrasing."
+  },
+  {
+    "id": 327,
+    "prompt": "Produce a high-energy punk rock anthem with distorted guitars and driving drums."
+  },
+  {
+    "id": 328,
+    "prompt": "Generate a serene new age piano and flute duet with gentle melodies and ambient backgrounds."
+  },
+  {
+    "id": 329,
+    "prompt": "Compose a festive klezmer dance with clarinet leads, accordion, and energetic rhythms."
+  },
+  {
+    "id": 330,
+    "prompt": "Create a moody trip-hop instrumental with slow beats, haunting synths, and textured percussion."
+  },
+  {
+    "id": 331,
+    "prompt": "Write a lively bluegrass tune with banjo rolls, fiddle, and upright bass."
+  },
+  {
+    "id": 332,
+    "prompt": "Produce a driving techno track with pulsing basslines, sharp synth stabs, and four-on-the-floor beat."
+  },
+  {
+    "id": 333,
+    "prompt": "Generate a classical string quartet with intricate counterpoint and lyrical themes."
+  },
+  {
+    "id": 334,
+    "prompt": "Compose a romantic piano nocturne with flowing melodies and delicate harmonies."
+  },
+  {
+    "id": 335,
+    "prompt": "Create a smooth R&B ballad with lush chords, deep bass, and soulful vocals."
+  },
+  {
+    "id": 336,
+    "prompt": "Write an intense progressive metal piece with complex time signatures and virtuosic guitar solos."
+  },
+  {
+    "id": 337,
+    "prompt": "Produce a vibrant mariachi song with bright trumpets, violins, and rhythmic guitarr\u00f3n."
+  },
+  {
+    "id": 338,
+    "prompt": "Generate a chill lo-fi hip-hop beat with jazzy samples and mellow drum patterns."
+  },
+  {
+    "id": 339,
+    "prompt": "Compose an energetic ska tune with brass section, upbeat guitars, and lively drums."
+  },
+  {
+    "id": 340,
+    "prompt": "Create a soothing spa music track with harp, flute, and soft ambient textures."
+  },
+  {
+    "id": 341,
+    "prompt": "Write a cinematic horror theme with eerie strings, dissonant chords, and suspenseful rhythms."
+  },
+  {
+    "id": 342,
+    "prompt": "Produce a classic Motown-style soul track with tight rhythm section and harmonious backing vocals."
+  },
+  {
+    "id": 343,
+    "prompt": "Generate a fast-paced electronic breakbeat track with glitch effects and heavy bass."
+  },
+  {
+    "id": 344,
+    "prompt": "Compose a peaceful folk lullaby with acoustic guitar and gentle vocals."
+  },
+  {
+    "id": 345,
+    "prompt": "Create a funky jazz fusion piece with syncopated rhythms and electric piano."
+  },
+  {
+    "id": 346,
+    "prompt": "Write a dramatic film score cue with tension-building strings and powerful percussion."
+  },
+  {
+    "id": 347,
+    "prompt": "Produce a catchy indie pop song with jangly guitars and upbeat melodies."
+  },
+  {
+    "id": 348,
+    "prompt": "Generate a smooth jazz ballad featuring saxophone and soft brushes on drums."
+  },
+  {
+    "id": 349,
+    "prompt": "Compose a lively Balkan brass band piece with complex rhythms and energetic horn lines."
+  },
+  {
+    "id": 350,
+    "prompt": "Create a moody post-rock instrumental with atmospheric guitars and slow build-ups."
+  },
+  {
+    "id": 351,
+    "prompt": "Write a nostalgic synth-pop track with 80s-style synths and catchy hooks."
+  },
+  {
+    "id": 352,
+    "prompt": "Produce a rhythmic West African drum ensemble piece with djembe and talking drum."
+  },
+  {
+    "id": 353,
+    "prompt": "Generate a romantic flamenco guitar solo with rapid picados and rhythmic comp\u00e1s."
+  },
+  {
+    "id": 354,
+    "prompt": "Compose a dynamic classical concerto movement with dramatic themes and virtuosic passages."
+  },
+  {
+    "id": 355,
+    "prompt": "Create an upbeat country rock song with twangy guitars and harmony vocals."
+  },
+  {
+    "id": 356,
+    "prompt": "Write a chill electronic ambient track with lush pads and soft textures."
+  },
+  {
+    "id": 357,
+    "prompt": "Produce a fast-paced punk rock track with distorted guitars and shout-along chorus."
+  },
+  {
+    "id": 358,
+    "prompt": "Generate a smooth bossa nova tune with nylon-string guitar and gentle percussion."
+  },
+  {
+    "id": 359,
+    "prompt": "Compose an elegant waltz for piano and strings with flowing melodies."
+  },
+  {
+    "id": 360,
+    "prompt": "Create a powerful symphonic metal track with choir and heavy guitars."
+  },
+  {
+    "id": 361,
+    "prompt": "Write a soulful gospel choir piece with call-and-response sections and rich harmonies."
+  },
+  {
+    "id": 362,
+    "prompt": "Produce a lively Cajun dance tune with fiddle, accordion, and rhythmic percussion."
+  },
+  {
+    "id": 363,
+    "prompt": "Generate a complex classical fugue with multiple voices and intricate counterpoint."
+  },
+  {
+    "id": 364,
+    "prompt": "Compose a soothing ambient guitar piece with looping textures and gentle melodies."
+  },
+  {
+    "id": 365,
+    "prompt": "Create a bright and energetic pop punk track with distorted guitars and anthemic chorus."
+  },
+  {
+    "id": 366,
+    "prompt": "Write a cinematic fantasy theme with sweeping strings and heroic brass fanfares."
+  },
+  {
+    "id": 367,
+    "prompt": "Produce a smooth contemporary R&B track with deep bass and soulful singing."
+  },
+  {
+    "id": 368,
+    "prompt": "Generate a dramatic neoclassical piece for full orchestra with powerful brass and strings."
+  },
+  {
+    "id": 369,
+    "prompt": "Compose a catchy reggae tune with offbeat rhythms and warm bass."
+  },
+  {
+    "id": 370,
+    "prompt": "Create a vibrant salsa track with congas, piano montunos, and punchy brass lines."
+  },
+  {
+    "id": 371,
+    "prompt": "Write a peaceful meditation track with Tibetan bowls and slow evolving textures."
+  },
+  {
+    "id": 372,
+    "prompt": "Produce a fast techno track with pulsating bass and precise hi-hats."
+  },
+  {
+    "id": 373,
+    "prompt": "Generate a mellow acoustic folk song with gentle strumming and harmonica."
+  },
+  {
+    "id": 374,
+    "prompt": "Compose a lively polka with accordion, clarinet, and fast-paced rhythms."
+  },
+  {
+    "id": 375,
+    "prompt": "Create a dreamy synthwave track with lush pads and retro arpeggios."
+  },
+  {
+    "id": 376,
+    "prompt": "Write a heartfelt R&B slow jam with smooth vocals and subtle beats."
+  },
+  {
+    "id": 377,
+    "prompt": "Produce a driving progressive rock song with shifting time signatures."
+  },
+  {
+    "id": 378,
+    "prompt": "Generate a dark trip-hop instrumental with moody synths and slow beats."
+  },
+  {
+    "id": 379,
+    "prompt": "Compose an elegant classical sonata movement with balanced themes."
+  },
+  {
+    "id": 380,
+    "prompt": "Create a funky disco groove with syncopated bass and rhythmic guitars."
+  },
+  {
+    "id": 381,
+    "prompt": "Write a romantic French chanson with accordion and acoustic guitar."
+  },
+  {
+    "id": 382,
+    "prompt": "Produce a dynamic jazz big band piece with swinging brass and walking bass."
+  },
+  {
+    "id": 383,
+    "prompt": "Generate a relaxing spa music track with gentle flute and harp."
+  },
+  {
+    "id": 384,
+    "prompt": "Compose a high-energy ska punk song with fast guitars and lively drums."
+  },
+  {
+    "id": 385,
+    "prompt": "Create a soulful jazz ballad with trumpet lead and soft brushes."
+  },
+  {
+    "id": 386,
+    "prompt": "Write a nostalgic 1950s doo-wop style vocal harmony track."
+  },
+  {
+    "id": 387,
+    "prompt": "Produce a lush synth-pop song with 80s-style pads and electronic drums."
+  },
+  {
+    "id": 388,
+    "prompt": "Generate a vibrant Caribbean calypso with steel drums and catchy melodies."
+  },
+  {
+    "id": 389,
+    "prompt": "Compose a dramatic film noir theme with moody piano and muted trumpet."
+  },
+  {
+    "id": 390,
+    "prompt": "Create an ambient drone piece with slow evolving harmonies and textures."
+  },
+  {
+    "id": 391,
+    "prompt": "Compose a lively Baroque dance with harpsichord and strings, full of ornamentation and energy."
+  },
+  {
+    "id": 392,
+    "prompt": "Create a heartfelt blues ballad featuring soulful vocals and expressive guitar solos."
+  },
+  {
+    "id": 393,
+    "prompt": "Write an upbeat Afrobeat track with infectious rhythms, horn sections, and call-and-response vocals."
+  },
+  {
+    "id": 394,
+    "prompt": "Produce a smooth chillout lounge track blending jazzy chords, soft beats, and atmospheric synths."
+  },
+  {
+    "id": 395,
+    "prompt": "Generate a playful classical scherzo for piano, with brisk tempos and dynamic contrasts."
+  },
+  {
+    "id": 396,
+    "prompt": "Compose an energetic Latin salsa number with vibrant brass, percussion, and lively piano montunos."
+  },
+  {
+    "id": 397,
+    "prompt": "Create an evolving ambient soundscape using layered synth pads and gentle rhythmic textures."
+  },
+  {
+    "id": 398,
+    "prompt": "Write a romantic French chanson with accordion, nylon-string guitar, and emotive vocal lines."
+  },
+  {
+    "id": 399,
+    "prompt": "Produce a dynamic jazz big band tune featuring bold brass stabs and swinging walking bass."
+  },
+  {
+    "id": 400,
+    "prompt": "Generate a traditional folk ballad with acoustic guitar, storytelling lyrics, and warm vocals."
+  },
+  {
+    "id": 401,
+    "prompt": "Compose a dramatic orchestral overture with soaring strings, heroic brass, and powerful percussion."
+  },
+  {
+    "id": 402,
+    "prompt": "Create a funky disco groove with syncopated basslines, rhythmic guitars, and punchy horn riffs."
+  },
+  {
+    "id": 403,
+    "prompt": "Write a melancholic solo cello piece full of rich harmonics and emotional phrasing."
+  },
+  {
+    "id": 404,
+    "prompt": "Produce a high-energy punk rock song with raw distorted guitars and pounding drums."
+  },
+  {
+    "id": 405,
+    "prompt": "Generate a serene new age duet for piano and flute with flowing melodies and gentle dynamics."
+  },
+  {
+    "id": 406,
+    "prompt": "Compose a festive klezmer dance featuring clarinet melodies, accordion, and energetic percussion."
+  },
+  {
+    "id": 407,
+    "prompt": "Create a moody trip-hop instrumental with deep bass, atmospheric synths, and slow beats."
+  },
+  {
+    "id": 408,
+    "prompt": "Write a lively bluegrass tune with rapid banjo picking, fiddle, and upright bass."
+  },
+  {
+    "id": 409,
+    "prompt": "Produce a driving techno track with relentless bass, crisp hi-hats, and synthetic stabs."
+  },
+  {
+    "id": 410,
+    "prompt": "Generate a classical string quartet exploring intricate counterpoint and lyrical motifs."
+  },
+  {
+    "id": 411,
+    "prompt": "Compose a romantic piano nocturne with expressive melodies and lush harmonic progressions."
+  },
+  {
+    "id": 412,
+    "prompt": "Create a smooth R&B ballad featuring warm synth pads, deep bass, and soulful vocals."
+  },
+  {
+    "id": 413,
+    "prompt": "Write a complex progressive metal track with shifting time signatures and virtuosic guitar work."
+  },
+  {
+    "id": 414,
+    "prompt": "Produce a vibrant mariachi piece with energetic trumpets, violins, and rhythmic guitarr\u00f3n."
+  },
+  {
+    "id": 415,
+    "prompt": "Generate a mellow lo-fi hip-hop beat with jazzy samples, vinyl crackle, and laid-back drums."
+  },
+  {
+    "id": 416,
+    "prompt": "Compose an upbeat ska track with brass section, offbeat guitar rhythms, and lively percussion."
+  },
+  {
+    "id": 417,
+    "prompt": "Create a relaxing spa music piece with harp, flute, and soothing ambient layers."
+  },
+  {
+    "id": 418,
+    "prompt": "Write a suspenseful horror soundtrack cue with dissonant strings and eerie sound effects."
+  },
+  {
+    "id": 419,
+    "prompt": "Produce a classic Motown soul track with tight rhythm section and rich vocal harmonies."
+  },
+  {
+    "id": 420,
+    "prompt": "Generate an intense electronic breakbeat composition with glitch effects and heavy bass drops."
+  },
+  {
+    "id": 421,
+    "prompt": "Compose a peaceful folk lullaby featuring acoustic guitar and soft vocal harmonies."
+  },
+  {
+    "id": 422,
+    "prompt": "Create a funky jazz fusion number with syncopated grooves and electric piano solos."
+  },
+  {
+    "id": 423,
+    "prompt": "Write a dramatic cinematic score with tension-building strings and powerful percussion hits."
+  },
+  {
+    "id": 424,
+    "prompt": "Produce a catchy indie pop track with jangly guitars, upbeat rhythms, and memorable melodies."
+  },
+  {
+    "id": 425,
+    "prompt": "Generate a smooth jazz ballad led by saxophone, supported by soft drums and walking bass."
+  },
+  {
+    "id": 426,
+    "prompt": "Compose a vibrant Balkan brass band piece with energetic horn lines and complex rhythms."
+  },
+  {
+    "id": 427,
+    "prompt": "Create a moody post-rock instrumental with atmospheric guitar textures and gradual build-ups."
+  },
+  {
+    "id": 428,
+    "prompt": "Write a nostalgic synthwave track inspired by 1980s aesthetics, featuring retro synths and driving beats."
+  },
+  {
+    "id": 429,
+    "prompt": "Produce a traditional West African drum ensemble featuring djembe, talking drum, and polyrhythms."
+  },
+  {
+    "id": 430,
+    "prompt": "Generate a passionate flamenco guitar solo with rapid strumming and intricate rhythms."
+  },
+  {
+    "id": 431,
+    "prompt": "Compose a dynamic classical concerto movement with virtuosic solo passages and orchestral interplay."
+  },
+  {
+    "id": 432,
+    "prompt": "Create an upbeat country rock song with twangy electric guitars and vocal harmonies."
+  },
+  {
+    "id": 433,
+    "prompt": "Write a chill electronic ambient track with lush synth pads and smooth textures."
+  },
+  {
+    "id": 434,
+    "prompt": "Produce a fast-paced punk rock anthem with aggressive guitar riffs and energetic drums."
+  },
+  {
+    "id": 435,
+    "prompt": "Generate a smooth bossa nova tune with nylon-string guitar, gentle percussion, and soft vocals."
+  },
+  {
+    "id": 436,
+    "prompt": "Compose an elegant waltz for piano and strings featuring flowing melodies and graceful rhythms."
+  },
+  {
+    "id": 437,
+    "prompt": "Create a powerful symphonic metal track blending choir vocals and heavy guitar riffs."
+  },
+  {
+    "id": 438,
+    "prompt": "Write a soulful gospel choir piece with call-and-response vocals and rich harmonies."
+  },
+  {
+    "id": 439,
+    "prompt": "Produce a lively Cajun dance tune featuring fiddle, accordion, and driving rhythms."
+  },
+  {
+    "id": 440,
+    "prompt": "Generate a complex classical fugue with multiple voices and sophisticated counterpoint."
+  },
+  {
+    "id": 441,
+    "prompt": "Compose a soothing ambient guitar piece with looping textures and gentle melodic phrases."
+  },
+  {
+    "id": 442,
+    "prompt": "Create a bright and energetic pop punk track with catchy guitar hooks and anthemic chorus."
+  },
+  {
+    "id": 443,
+    "prompt": "Write a cinematic fantasy theme with sweeping orchestral strings and heroic brass."
+  },
+  {
+    "id": 444,
+    "prompt": "Produce a smooth contemporary R&B track with deep bass, lush synths, and emotive vocals."
+  },
+  {
+    "id": 445,
+    "prompt": "Generate a dramatic neoclassical orchestral piece with bold brass and rich strings."
+  },
+  {
+    "id": 446,
+    "prompt": "Compose a catchy reggae tune with offbeat rhythm guitar, warm bass, and smooth vocals."
+  },
+  {
+    "id": 447,
+    "prompt": "Create a vibrant salsa track with congas, piano montunos, and dynamic brass sections."
+  },
+  {
+    "id": 448,
+    "prompt": "Write a peaceful meditation track featuring Tibetan singing bowls and evolving ambient soundscapes."
+  },
+  {
+    "id": 449,
+    "prompt": "Produce a high-energy techno track with pulsating basslines and crisp, driving percussion."
+  },
+  {
+    "id": 450,
+    "prompt": "Generate a mellow acoustic folk song with fingerpicked guitar and heartfelt lyrics."
+  },
+  {
+    "id": 451,
+    "prompt": "Compose a lively polka featuring accordion, clarinet, and bouncy rhythms."
+  },
+  {
+    "id": 452,
+    "prompt": "Create a dreamy synthwave track with lush pads, retro arpeggios, and nostalgic atmosphere."
+  },
+  {
+    "id": 453,
+    "prompt": "Write a heartfelt R&B slow jam with smooth vocals, warm chords, and subtle beats."
+  },
+  {
+    "id": 454,
+    "prompt": "Produce a driving progressive rock song with complex rhythms and soaring guitar solos."
+  },
+  {
+    "id": 455,
+    "prompt": "Generate a dark trip-hop instrumental with brooding synths, slow beats, and textured percussion."
+  },
+  {
+    "id": 456,
+    "prompt": "Compose an elegant classical sonata movement with balanced themes and intricate development."
+  },
+  {
+    "id": 457,
+    "prompt": "Create a funky disco groove with syncopated bass, rhythmic guitars, and energetic horns."
+  },
+  {
+    "id": 458,
+    "prompt": "Write a romantic French chanson with accordion accompaniment and expressive vocal delivery."
+  },
+  {
+    "id": 459,
+    "prompt": "Produce a lively jazz big band tune featuring swinging brass and walking bass."
+  },
+  {
+    "id": 460,
+    "prompt": "Generate a relaxing spa music piece with gentle flute melodies and soothing harp."
+  },
+  {
+    "id": 461,
+    "prompt": "Compose a high-energy ska punk song with fast-paced guitars and lively drums."
+  },
+  {
+    "id": 462,
+    "prompt": "Create a soulful jazz ballad with smooth trumpet leads and soft brushwork on drums."
+  },
+  {
+    "id": 463,
+    "prompt": "Write a nostalgic 1950s doo-wop style vocal harmony song with simple instrumentation."
+  },
+  {
+    "id": 464,
+    "prompt": "Produce a lush synth-pop track with vintage 80s synth pads and driving drum machines."
+  },
+  {
+    "id": 465,
+    "prompt": "Generate a vibrant Caribbean calypso song with steel drums, upbeat rhythms, and catchy melodies."
+  },
+  {
+    "id": 466,
+    "prompt": "Compose a dramatic film noir theme with moody piano, muted trumpet, and atmospheric bass."
+  },
+  {
+    "id": 467,
+    "prompt": "Create an ambient drone piece with slow evolving harmonies and textured soundscapes."
+  },
+  {
+    "id": 468,
+    "prompt": "Compose an elegant classical minuet for string quartet with balanced phrasing and dance-like rhythm."
+  },
+  {
+    "id": 469,
+    "prompt": "Create a soulful gospel hymn with choir vocals, organ accompaniment, and uplifting harmonies."
+  },
+  {
+    "id": 470,
+    "prompt": "Write a fast-paced flamenco buler\u00eda with intricate guitar rhythms and passionate vocals."
+  },
+  {
+    "id": 471,
+    "prompt": "Produce a dreamy indie folk track featuring fingerpicked guitar and soft, breathy vocals."
+  },
+  {
+    "id": 472,
+    "prompt": "Generate an energetic EDM festival anthem with big drops, synth leads, and driving beats."
+  },
+  {
+    "id": 473,
+    "prompt": "Compose a tender lullaby for solo piano with gentle melodies and flowing arpeggios."
+  },
+  {
+    "id": 474,
+    "prompt": "Create a jazzy bossa nova with smooth guitar, light percussion, and cool horn sections."
+  },
+  {
+    "id": 475,
+    "prompt": "Write a powerful symphonic poem depicting a heroic journey with thematic development and dramatic climaxes."
+  },
+  {
+    "id": 476,
+    "prompt": "Produce a laid-back reggae groove with steady offbeat guitar, deep bass, and relaxed drums."
+  },
+  {
+    "id": 477,
+    "prompt": "Generate a mystical Celtic instrumental with fiddle, whistle, and drone accompaniment."
+  },
+  {
+    "id": 478,
+    "prompt": "Compose a romantic tango featuring bandoneon, violin, and syncopated piano rhythms."
+  },
+  {
+    "id": 479,
+    "prompt": "Create a funky funk jam with slap bass, wah guitar, tight drums, and horn hits."
+  },
+  {
+    "id": 480,
+    "prompt": "Write a haunting ambient track with layered synth pads, reverb-drenched textures, and subtle drones."
+  },
+  {
+    "id": 481,
+    "prompt": "Produce a classic rock anthem with distorted guitars, steady drums, and powerful vocals."
+  },
+  {
+    "id": 482,
+    "prompt": "Generate a baroque-inspired fugue for keyboard with intricate voice leading and counterpoint."
+  },
+  {
+    "id": 483,
+    "prompt": "Compose a vibrant mariachi serenade with trumpets, violins, and rhythmic guitar strumming."
+  },
+  {
+    "id": 484,
+    "prompt": "Create a serene piano and cello duet with lyrical melodies and warm harmonies."
+  },
+  {
+    "id": 485,
+    "prompt": "Write a high-energy drum and bass track with fast breakbeats, deep basslines, and atmospheric pads."
+  },
+  {
+    "id": 486,
+    "prompt": "Produce a traditional Japanese koto and shakuhachi duet with tranquil melodies and flowing phrases."
+  },
+  {
+    "id": 487,
+    "prompt": "Generate a lively bluegrass breakdown with fast banjo rolls, fiddle runs, and driving rhythm."
+  },
+  {
+    "id": 488,
+    "prompt": "Compose a minimalist piano piece focusing on repetitive motifs and gradual changes."
+  },
+  {
+    "id": 489,
+    "prompt": "Create a cinematic sci-fi soundtrack with futuristic synth textures and pulsing rhythms."
+  },
+  {
+    "id": 490,
+    "prompt": "Write an upbeat pop punk track with catchy riffs, fast drums, and anthemic vocals."
+  },
+  {
+    "id": 491,
+    "prompt": "Produce a sultry jazz ballad featuring smooth saxophone and soft brushes on drums."
+  },
+  {
+    "id": 492,
+    "prompt": "Generate a lively Balkan folk dance with energetic brass and complex rhythms."
+  },
+  {
+    "id": 493,
+    "prompt": "Compose a dark, brooding orchestral piece with dissonant strings and ominous brass."
+  },
+  {
+    "id": 494,
+    "prompt": "Create a tropical house track with relaxed beats, melodic synths, and breezy vibes."
+  },
+  {
+    "id": 495,
+    "prompt": "Write a heartfelt country ballad with acoustic guitar, pedal steel, and emotional lyrics."
+  },
+  {
+    "id": 496,
+    "prompt": "Produce a smooth neo-soul tune with jazzy chords, laid-back drums, and silky vocals."
+  },
+  {
+    "id": 497,
+    "prompt": "Generate a fast-paced punk rock track with distorted guitars and aggressive vocals."
+  },
+  {
+    "id": 498,
+    "prompt": "Compose a classical piano \u00e9tude emphasizing technical virtuosity and dynamic contrasts."
+  },
+  {
+    "id": 499,
+    "prompt": "Create a meditative soundscape with Tibetan singing bowls, drones, and soft bells."
+  },
+  {
+    "id": 500,
+    "prompt": "Write an electronic chillwave track with lo-fi textures, warm synths, and relaxed rhythms."
+  },
+  {
+    "id": 501,
+    "prompt": "Produce a joyful ska tune with brass section, upbeat guitars, and danceable grooves."
+  },
+  {
+    "id": 502,
+    "prompt": "Generate a romantic flamenco guitar solo with expressive phrasing and rhythmic complexity."
+  },
+  {
+    "id": 503,
+    "prompt": "Compose a cinematic orchestral build-up leading to a triumphant finale."
+  },
+  {
+    "id": 504,
+    "prompt": "Create a funky disco track with syncopated basslines, rhythmic guitars, and vibrant horns."
+  },
+  {
+    "id": 505,
+    "prompt": "Write a smooth jazz fusion tune with electric piano, tight grooves, and melodic solos."
+  },
+  {
+    "id": 506,
+    "prompt": "Produce a melancholic folk ballad with acoustic guitar and heartfelt vocals."
+  },
+  {
+    "id": 507,
+    "prompt": "Generate an energetic EDM trap beat with heavy bass, sharp hi-hats, and dramatic drops."
+  },
+  {
+    "id": 508,
+    "prompt": "Compose a nostalgic synth-pop track with shimmering pads and catchy hooks."
+  },
+  {
+    "id": 509,
+    "prompt": "Create a peaceful classical guitar piece with flowing arpeggios and warm harmonies."
+  },
+  {
+    "id": 510,
+    "prompt": "Write a lively bluegrass tune featuring banjo, mandolin, and fast fiddle runs."
+  },
+  {
+    "id": 511,
+    "prompt": "Produce a deep house track with smooth basslines, steady groove, and lush pads."
+  },
+  {
+    "id": 512,
+    "prompt": "Generate a cinematic horror cue with tense strings, eerie effects, and unsettling rhythms."
+  },
+  {
+    "id": 513,
+    "prompt": "Compose a romantic piano nocturne with expressive melody and gentle accompaniment."
+  },
+  {
+    "id": 514,
+    "prompt": "Create a high-energy punk rock anthem with distorted guitars, fast drums, and shout-along vocals."
+  },
+  {
+    "id": 515,
+    "prompt": "Write a smooth R&B ballad with warm synths, deep bass, and soulful vocals."
+  },
+  {
+    "id": 516,
+    "prompt": "Produce a dramatic film score with powerful brass fanfares and sweeping strings."
+  },
+  {
+    "id": 517,
+    "prompt": "Generate a relaxed reggae tune with offbeat rhythm guitar, deep bass, and mellow vocals."
+  },
+  {
+    "id": 518,
+    "prompt": "Compose a jazzy big band swing number with energetic brass, walking bass, and driving drums."
+  },
+  {
+    "id": 519,
+    "prompt": "Create an ambient electronic track with evolving synth textures and soft rhythms."
+  },
+  {
+    "id": 520,
+    "prompt": "Write a lively polka with accordion, clarinet, and bouncy rhythms."
+  },
+  {
+    "id": 521,
+    "prompt": "Produce a funky jazz fusion piece with syncopated grooves and electric piano."
+  },
+  {
+    "id": 522,
+    "prompt": "Generate a dark trip-hop instrumental with brooding synths and slow beats."
+  },
+  {
+    "id": 523,
+    "prompt": "Compose an elegant classical sonata movement with balanced themes and intricate development."
+  },
+  {
+    "id": 524,
+    "prompt": "Create a bright and energetic pop punk track with catchy guitar hooks and anthemic chorus."
+  },
+  {
+    "id": 525,
+    "prompt": "Write a cinematic fantasy theme with sweeping orchestral strings and heroic brass."
+  },
+  {
+    "id": 526,
+    "prompt": "Produce a smooth contemporary R&B track with deep bass, lush synths, and emotive vocals."
+  },
+  {
+    "id": 527,
+    "prompt": "Generate a dramatic neoclassical orchestral piece with bold brass and rich strings."
+  },
+  {
+    "id": 528,
+    "prompt": "Compose a catchy reggae tune with offbeat rhythm guitar, warm bass, and smooth vocals."
+  },
+  {
+    "id": 529,
+    "prompt": "Create a vibrant salsa track with congas, piano montunos, and dynamic brass sections."
+  },
+  {
+    "id": 530,
+    "prompt": "Write a peaceful meditation track featuring Tibetan singing bowls and evolving ambient soundscapes."
+  },
+  {
+    "id": 531,
+    "prompt": "Produce a high-energy techno track with pulsating basslines and crisp, driving percussion."
+  },
+  {
+    "id": 532,
+    "prompt": "Generate a mellow acoustic folk song with fingerpicked guitar and heartfelt lyrics."
+  },
+  {
+    "id": 533,
+    "prompt": "Compose a lively polka featuring accordion, clarinet, and bouncy rhythms."
+  },
+  {
+    "id": 534,
+    "prompt": "Create a dreamy synthwave track with lush pads, retro arpeggios, and nostalgic atmosphere."
+  },
+  {
+    "id": 535,
+    "prompt": "Write a heartfelt R&B slow jam with smooth vocals, warm chords, and subtle beats."
+  },
+  {
+    "id": 536,
+    "prompt": "Produce a driving progressive rock song with complex rhythms and soaring guitar solos."
+  },
+  {
+    "id": 537,
+    "prompt": "Generate a dark trip-hop instrumental with brooding synths, slow beats, and textured percussion."
+  },
+  {
+    "id": 538,
+    "prompt": "Compose an elegant classical sonata movement with balanced themes and intricate development."
+  },
+  {
+    "id": 539,
+    "prompt": "Create a funky disco groove with syncopated bass, rhythmic guitars, and energetic horns."
+  },
+  {
+    "id": 540,
+    "prompt": "Write a romantic French chanson with accordion accompaniment and expressive vocal delivery."
+  },
+  {
+    "id": 541,
+    "prompt": "Produce a lively jazz big band tune featuring swinging brass and walking bass."
+  },
+  {
+    "id": 542,
+    "prompt": "Generate a relaxing spa music piece with gentle flute melodies and soothing harp."
+  },
+  {
+    "id": 543,
+    "prompt": "Compose a high-energy ska punk song with fast-paced guitars and lively drums."
+  },
+  {
+    "id": 544,
+    "prompt": "Create a soulful jazz ballad with smooth trumpet leads and soft brushwork on drums."
+  },
+  {
+    "id": 545,
+    "prompt": "Write a nostalgic 1950s doo-wop style vocal harmony song with simple instrumentation."
+  },
+  {
+    "id": 546,
+    "prompt": "Produce a lush synth-pop track with vintage 80s synth pads and driving drum machines."
+  },
+  {
+    "id": 547,
+    "prompt": "Generate a vibrant Caribbean calypso song with steel drums, upbeat rhythms, and catchy melodies."
+  },
+  {
+    "id": 548,
+    "prompt": "Compose a dramatic film noir theme with moody piano, muted trumpet, and atmospheric bass."
+  },
+  {
+    "id": 549,
+    "prompt": "Create an ambient drone piece with slow evolving harmonies and textured soundscapes."
+  },
+  {
+    "id": 550,
+    "prompt": "Compose a lively baroque dance suite with harpsichord, strings, and rhythmic ornamentation."
+  },
+  {
+    "id": 551,
+    "prompt": "Create a moody blues track with expressive electric guitar, walking bass, and shuffle drums."
+  },
+  {
+    "id": 552,
+    "prompt": "Write an uplifting gospel choir piece with rich harmonies and dynamic call-and-response."
+  },
+  {
+    "id": 553,
+    "prompt": "Produce a sparkling chamber music trio with violin, cello, and piano featuring lyrical interplay."
+  },
+  {
+    "id": 554,
+    "prompt": "Generate an energetic EDM house track with driving four-on-the-floor beat and bright synth leads."
+  },
+  {
+    "id": 555,
+    "prompt": "Compose a traditional Irish folk tune with fiddle, tin whistle, and rhythmic bodhr\u00e1n."
+  },
+  {
+    "id": 556,
+    "prompt": "Create a soulful neo-soul ballad with warm Rhodes piano, smooth bass, and heartfelt vocals."
+  },
+  {
+    "id": 557,
+    "prompt": "Write a dramatic romantic symphony movement with sweeping strings and powerful brass."
+  },
+  {
+    "id": 558,
+    "prompt": "Produce a fast-paced bluegrass instrumental with banjo rolls, mandolin chops, and fiddle runs."
+  },
+  {
+    "id": 559,
+    "prompt": "Generate a jazzy Latin bossa nova with nylon-string guitar, soft percussion, and mellow horns."
+  },
+  {
+    "id": 560,
+    "prompt": "Compose a cinematic horror soundtrack cue with dissonant strings, eerie sound effects, and suspenseful rhythms."
+  },
+  {
+    "id": 561,
+    "prompt": "Create a relaxing acoustic guitar fingerstyle piece with flowing melodies and gentle dynamics."
+  },
+  {
+    "id": 562,
+    "prompt": "Write a bright and catchy pop rock song with upbeat guitars, energetic drums, and singalong chorus."
+  },
+  {
+    "id": 563,
+    "prompt": "Produce a laid-back reggae groove with smooth organ, deep bass, and skanking guitar."
+  },
+  {
+    "id": 564,
+    "prompt": "Generate a lush orchestral waltz with graceful melodies and elegant string phrasing."
+  },
+  {
+    "id": 565,
+    "prompt": "Compose a minimalistic electronic track with repetitive motifs and evolving textures."
+  },
+  {
+    "id": 566,
+    "prompt": "Create a soulful jazz ballad featuring a warm saxophone solo and soft piano accompaniment."
+  },
+  {
+    "id": 567,
+    "prompt": "Write an intense metalcore track with aggressive guitars, breakdowns, and dynamic vocals."
+  },
+  {
+    "id": 568,
+    "prompt": "Produce a vibrant salsa dance tune with congas, trumpets, and rhythmic piano montunos."
+  },
+  {
+    "id": 569,
+    "prompt": "Generate a dreamy ambient synth piece with pads, subtle rhythms, and evolving soundscapes."
+  },
+  {
+    "id": 570,
+    "prompt": "Compose an energetic punk rock anthem with fast guitars, driving drums, and rebellious vocals."
+  },
+  {
+    "id": 571,
+    "prompt": "Create a heartfelt folk ballad with acoustic guitar and emotive vocals."
+  },
+  {
+    "id": 572,
+    "prompt": "Write a swinging big band jazz number with vibrant brass sections and walking bass."
+  },
+  {
+    "id": 573,
+    "prompt": "Produce a cinematic epic theme with bold brass fanfares and sweeping string melodies."
+  },
+  {
+    "id": 574,
+    "prompt": "Generate a smooth R&B track with lush synth chords, tight drums, and soulful singing."
+  },
+  {
+    "id": 575,
+    "prompt": "Compose a tranquil new age piece with gentle piano, soft synths, and nature sounds."
+  },
+  {
+    "id": 576,
+    "prompt": "Create an upbeat disco track with funky basslines, rhythmic guitars, and energetic horns."
+  },
+  {
+    "id": 577,
+    "prompt": "Write a delicate classical guitar \u00e9tude focusing on finger independence and melody."
+  },
+  {
+    "id": 578,
+    "prompt": "Produce a powerful orchestral fanfare with brass, timpani, and snare drum rolls."
+  },
+  {
+    "id": 579,
+    "prompt": "Generate a relaxed lo-fi hip-hop beat with mellow drums, jazzy samples, and smooth bass."
+  },
+  {
+    "id": 580,
+    "prompt": "Compose a vibrant gypsy jazz tune with fast guitar picking, upright bass, and swing rhythms."
+  },
+  {
+    "id": 581,
+    "prompt": "Create a dark trip-hop instrumental with atmospheric synths, slow beats, and haunting vocals."
+  },
+  {
+    "id": 582,
+    "prompt": "Write a nostalgic 80s synth-pop track with catchy melodies and retro drum machines."
+  },
+  {
+    "id": 583,
+    "prompt": "Produce a fiery flamenco guitar solo with rapid fingerwork and expressive phrasing."
+  },
+  {
+    "id": 584,
+    "prompt": "Generate a serene piano nocturne with flowing arpeggios and lyrical melodies."
+  },
+  {
+    "id": 585,
+    "prompt": "Compose a high-energy EDM festival anthem with big drops, catchy synth leads, and pounding beats."
+  },
+  {
+    "id": 586,
+    "prompt": "Create a relaxing spa music piece with soft harp, gentle flutes, and calming drones."
+  },
+  {
+    "id": 587,
+    "prompt": "Write a jazzy funk track with groovy basslines, tight horns, and syncopated drums."
+  },
+  {
+    "id": 588,
+    "prompt": "Produce a dramatic film score cue with tense strings, powerful brass, and suspenseful rhythms."
+  },
+  {
+    "id": 589,
+    "prompt": "Generate a lively bluegrass tune with fast banjo rolls, fiddle, and mandolin chops."
+  },
+  {
+    "id": 590,
+    "prompt": "Compose an elegant classical sonata movement with clear thematic development and balanced structure."
+  },
+  {
+    "id": 591,
+    "prompt": "Create a soulful soul track with deep bass, warm keys, and passionate vocals."
+  },
+  {
+    "id": 592,
+    "prompt": "Write a catchy indie pop song with jangly guitars, upbeat drums, and melodic vocals."
+  },
+  {
+    "id": 593,
+    "prompt": "Produce a tropical house track with bright synths, relaxed beats, and smooth basslines."
+  },
+  {
+    "id": 594,
+    "prompt": "Generate a melancholic folk ballad with acoustic guitar and heartfelt lyrics."
+  },
+  {
+    "id": 595,
+    "prompt": "Compose a fast-paced techno track with driving bass and crisp percussion."
+  },
+  {
+    "id": 596,
+    "prompt": "Create a cinematic orchestral build-up leading to a triumphant finale."
+  },
+  {
+    "id": 597,
+    "prompt": "Write a joyful ska tune with brass sections, upbeat guitars, and danceable rhythms."
+  },
+  {
+    "id": 598,
+    "prompt": "Produce a smooth jazz fusion track with electric piano, syncopated drums, and melodic solos."
+  },
+  {
+    "id": 599,
+    "prompt": "Generate a vibrant mariachi song with trumpets, violins, and rhythmic guitars."
+  },
+  {
+    "id": 600,
+    "prompt": "Compose a meditative ambient piece with evolving synth textures and soft drones."
+  },
+  {
+    "id": 601,
+    "prompt": "Create a dramatic neoclassical orchestral piece with bold brass and rich strings."
+  },
+  {
+    "id": 602,
+    "prompt": "Write a heartfelt country ballad with acoustic guitar, pedal steel, and emotional vocals."
+  },
+  {
+    "id": 603,
+    "prompt": "Produce a funky disco track with slap bass, rhythmic guitars, and vibrant horns."
+  },
+  {
+    "id": 604,
+    "prompt": "Generate an elegant classical minuet for string quartet with balanced phrasing and dance-like rhythm."
+  },
+  {
+    "id": 605,
+    "prompt": "Compose a soulful gospel hymn with choir vocals, organ accompaniment, and uplifting harmonies."
+  },
+  {
+    "id": 606,
+    "prompt": "Create a dreamy indie folk track with fingerpicked guitar and soft, breathy vocals."
+  },
+  {
+    "id": 607,
+    "prompt": "Write an upbeat pop punk track with catchy riffs, fast drums, and anthemic vocals."
+  },
+  {
+    "id": 608,
+    "prompt": "Produce a powerful symphonic poem depicting a heroic journey with thematic development and dramatic climaxes."
+  },
+  {
+    "id": 609,
+    "prompt": "Generate a smooth neo-soul tune with jazzy chords, laid-back drums, and silky vocals."
+  },
+  {
+    "id": 610,
+    "prompt": "Compose a romantic tango featuring bandoneon, violin, and syncopated piano rhythms."
+  },
+  {
+    "id": 611,
+    "prompt": "Create a funky funk jam with slap bass, wah guitar, tight drums, and horn hits."
+  },
+  {
+    "id": 612,
+    "prompt": "Write a haunting ambient track with layered synth pads, reverb-drenched textures, and subtle drones."
+  },
+  {
+    "id": 613,
+    "prompt": "Produce a laid-back reggae groove with steady offbeat guitar, deep bass, and relaxed drums."
+  },
+  {
+    "id": 614,
+    "prompt": "Generate a bright and energetic pop rock song with upbeat guitars, energetic drums, and singalong chorus."
+  },
+  {
+    "id": 615,
+    "prompt": "Compose a cinematic fantasy theme with sweeping orchestral strings and heroic brass."
+  },
+  {
+    "id": 616,
+    "prompt": "Create a lush synth-pop track with vintage 80s synth pads and driving drum machines."
+  },
+  {
+    "id": 617,
+    "prompt": "Write a romantic French chanson with accordion accompaniment and expressive vocal delivery."
+  },
+  {
+    "id": 618,
+    "prompt": "Produce a lively jazz big band tune featuring swinging brass and walking bass."
+  },
+  {
+    "id": 619,
+    "prompt": "Generate a relaxing spa music piece with gentle flute melodies and soothing harp."
+  },
+  {
+    "id": 620,
+    "prompt": "Compose a high-energy ska punk song with fast-paced guitars and lively drums."
+  },
+  {
+    "id": 621,
+    "prompt": "Create a soulful jazz ballad with smooth trumpet leads and soft brushwork on drums."
+  },
+  {
+    "id": 622,
+    "prompt": "Write a nostalgic 1950s doo-wop style vocal harmony song with simple instrumentation."
+  },
+  {
+    "id": 623,
+    "prompt": "Produce a lush synth-pop track with vintage 80s synth pads and driving drum machines."
+  },
+  {
+    "id": 624,
+    "prompt": "Compose a playful classical scherzo for piano and strings featuring rapid passages and dynamic contrasts."
+  },
+  {
+    "id": 625,
+    "prompt": "Create an atmospheric post-rock instrumental with layered guitars, slow builds, and ethereal soundscapes."
+  },
+  {
+    "id": 626,
+    "prompt": "Write a soulful blues shuffle with expressive electric guitar solos and walking bass."
+  },
+  {
+    "id": 627,
+    "prompt": "Produce a lively klezmer tune with clarinet lead, accordion, and rhythmic percussion."
+  },
+  {
+    "id": 628,
+    "prompt": "Generate a romantic Italian operatic aria with dramatic vocal lines and orchestral accompaniment."
+  },
+  {
+    "id": 629,
+    "prompt": "Compose a driving hard rock anthem with powerful guitar riffs, heavy drums, and anthemic vocals."
+  },
+  {
+    "id": 630,
+    "prompt": "Create a serene Celtic harp solo featuring flowing arpeggios and gentle melodies."
+  },
+  {
+    "id": 631,
+    "prompt": "Write a jazzy swing tune with brass section, walking bass, and swinging drum patterns."
+  },
+  {
+    "id": 632,
+    "prompt": "Produce a dynamic cinematic chase scene cue with fast strings, percussion, and brass stabs."
+  },
+  {
+    "id": 633,
+    "prompt": "Generate a soulful R&B slow jam with smooth bass, electric piano, and heartfelt vocals."
+  },
+  {
+    "id": 634,
+    "prompt": "Compose an energetic punk rock song with fast power chords, driving drums, and aggressive vocals."
+  },
+  {
+    "id": 635,
+    "prompt": "Create a dreamy synthwave track with nostalgic 80s synth textures and pulsing bass."
+  },
+  {
+    "id": 636,
+    "prompt": "Write a reflective folk ballad with acoustic guitar, harmonica, and gentle vocals."
+  },
+  {
+    "id": 637,
+    "prompt": "Produce a vibrant mariachi ensemble piece with trumpets, violins, and rhythmic guitarr\u00f3n."
+  },
+  {
+    "id": 638,
+    "prompt": "Generate a dark ambient drone with evolving textures, subtle dissonances, and minimal percussion."
+  },
+  {
+    "id": 639,
+    "prompt": "Compose a bright pop song with catchy melodies, upbeat rhythm, and layered vocal harmonies."
+  },
+  {
+    "id": 640,
+    "prompt": "Create a dramatic orchestral overture with bold brass, sweeping strings, and rhythmic percussion."
+  },
+  {
+    "id": 641,
+    "prompt": "Write a laid-back jazz ballad with soft piano chords, smooth saxophone, and brush drums."
+  },
+  {
+    "id": 642,
+    "prompt": "Produce an upbeat country dance tune with fiddle, banjo, and rhythmic acoustic guitar."
+  },
+  {
+    "id": 643,
+    "prompt": "Generate a complex progressive rock instrumental featuring shifting time signatures and virtuosic solos."
+  },
+  {
+    "id": 644,
+    "prompt": "Compose a gentle lullaby with soothing piano and warm string accompaniment."
+  },
+  {
+    "id": 645,
+    "prompt": "Create a fiery flamenco guitar piece with fast rasgueados and passionate phrasing."
+  },
+  {
+    "id": 646,
+    "prompt": "Write a soulful gospel choir arrangement with powerful harmonies and dynamic crescendo."
+  },
+  {
+    "id": 647,
+    "prompt": "Produce an ethereal new age composition with flowing synth pads and tranquil melodies."
+  },
+  {
+    "id": 648,
+    "prompt": "Generate a funky disco track with groovy basslines, rhythmic guitar, and vibrant horn sections."
+  },
+  {
+    "id": 649,
+    "prompt": "Compose a cinematic suspense theme with tense strings, ominous brass, and unsettling percussion."
+  },
+  {
+    "id": 650,
+    "prompt": "Create a vibrant samba rhythm with percussion ensemble, brass, and lively vocals."
+  },
+  {
+    "id": 651,
+    "prompt": "Write a nostalgic doo-wop song with close harmony vocals and simple piano accompaniment."
+  },
+  {
+    "id": 652,
+    "prompt": "Produce a dramatic film noir jazz piece with muted trumpet, upright bass, and sultry piano."
+  },
+  {
+    "id": 653,
+    "prompt": "Generate an energetic ska punk track with fast guitar strums, walking bass, and lively brass."
+  },
+  {
+    "id": 654,
+    "prompt": "Compose a meditative ambient piece with soft drones, delicate piano, and subtle field recordings."
+  },
+  {
+    "id": 655,
+    "prompt": "Create a joyful classical rondo movement with playful themes and lively rhythms."
+  },
+  {
+    "id": 656,
+    "prompt": "Write a passionate tango with bandoneon, piano, and expressive violin melodies."
+  },
+  {
+    "id": 657,
+    "prompt": "Produce a smooth jazz fusion track with electric guitar, Rhodes piano, and syncopated drums."
+  },
+  {
+    "id": 658,
+    "prompt": "Generate a haunting choral piece with rich harmonies and eerie modal melodies."
+  },
+  {
+    "id": 659,
+    "prompt": "Compose a vibrant afrobeat groove with polyrhythmic percussion, bass, and horn riffs."
+  },
+  {
+    "id": 660,
+    "prompt": "Create an uplifting EDM progressive house track with layered synths and driving beat."
+  },
+  {
+    "id": 661,
+    "prompt": "Write a romantic French chanson with accordion, subtle strings, and heartfelt vocals."
+  },
+  {
+    "id": 662,
+    "prompt": "Produce a funky hip-hop beat with punchy drums, deep bass, and catchy samples."
+  },
+  {
+    "id": 663,
+    "prompt": "Generate a dramatic orchestral piece depicting a storm with swirling strings and thunderous percussion."
+  },
+  {
+    "id": 664,
+    "prompt": "Compose a lively bluegrass jam with fast banjo, fiddle, and mandolin interplay."
+  },
+  {
+    "id": 665,
+    "prompt": "Create a relaxing spa music track with gentle harp, flute, and atmospheric pads."
+  },
+  {
+    "id": 666,
+    "prompt": "Write a sophisticated bebop jazz tune with complex chord changes and virtuosic solos."
+  },
+  {
+    "id": 667,
+    "prompt": "Produce a driving electronic techno track with repetitive rhythms and evolving synth patterns."
+  },
+  {
+    "id": 668,
+    "prompt": "Generate a heartfelt country ballad with pedal steel, acoustic guitar, and emotive vocals."
+  },
+  {
+    "id": 669,
+    "prompt": "Compose a majestic classical fanfare with brass and timpani announcing a grand event."
+  },
+  {
+    "id": 670,
+    "prompt": "Create a dreamy indie pop song with jangly guitars, mellow vocals, and catchy hooks."
+  },
+  {
+    "id": 671,
+    "prompt": "Write an energetic rockabilly track with slap bass, twangy guitar, and fast drums."
+  },
+  {
+    "id": 672,
+    "prompt": "Produce a sensual R&B slow jam with smooth synths, laid-back beats, and intimate vocals."
+  },
+  {
+    "id": 673,
+    "prompt": "Generate a complex classical fugue for string quartet with intricate counterpoint."
+  },
+  {
+    "id": 674,
+    "prompt": "Compose a joyful gospel hymn with uplifting choir harmonies and organ accompaniment."
+  },
+  {
+    "id": 675,
+    "prompt": "Create a cinematic western theme with acoustic guitar, harmonica, and expansive strings."
+  },
+  {
+    "id": 676,
+    "prompt": "Write a catchy pop punk anthem with energetic guitars, fast drums, and singalong chorus."
+  },
+  {
+    "id": 677,
+    "prompt": "Produce a soulful jazz ballad featuring warm trumpet and soft piano chords."
+  },
+  {
+    "id": 678,
+    "prompt": "Generate a festive mariachi song with bright trumpets, violins, and rhythmic guitars."
+  },
+  {
+    "id": 679,
+    "prompt": "Compose a minimalistic electronic ambient piece with subtle drones and sparse melodies."
+  },
+  {
+    "id": 680,
+    "prompt": "Create a high-energy EDM dubstep track with heavy bass drops and glitchy synths."
+  },
+  {
+    "id": 681,
+    "prompt": "Write a reflective folk song with acoustic guitar, harmonica, and thoughtful lyrics."
+  },
+  {
+    "id": 682,
+    "prompt": "Produce a dynamic symphonic poem depicting a heroic quest with thematic development."
+  },
+  {
+    "id": 683,
+    "prompt": "Generate a smooth neo-soul track with jazzy chords, mellow bass, and soulful vocals."
+  },
+  {
+    "id": 684,
+    "prompt": "Compose a vibrant salsa tune with congas, trumpets, and piano montunos."
+  },
+  {
+    "id": 685,
+    "prompt": "Create a relaxing lo-fi hip-hop beat with mellow drums and jazzy samples."
+  },
+  {
+    "id": 686,
+    "prompt": "Write a dramatic horror soundtrack cue with dissonant strings and suspenseful rhythms."
+  },
+  {
+    "id": 687,
+    "prompt": "Produce an upbeat disco track with funky bass, rhythmic guitars, and energetic horns."
+  },
+  {
+    "id": 688,
+    "prompt": "Generate a gentle classical piano nocturne with flowing arpeggios and lyrical melodies."
+  },
+  {
+    "id": 689,
+    "prompt": "Compose a fiery flamenco dance piece with rapid guitar techniques and passionate expression."
+  },
+  {
+    "id": 690,
+    "prompt": "Create a lush synth-pop ballad with vintage 80s textures and emotive vocals."
+  },
+  {
+    "id": 691,
+    "prompt": "Write a swinging big band jazz number with vibrant brass and walking bass."
+  },
+  {
+    "id": 692,
+    "prompt": "Produce a soulful gospel choir piece with powerful harmonies and dynamic crescendos."
+  },
+  {
+    "id": 693,
+    "prompt": "Generate a dark trip-hop instrumental with atmospheric synths and slow beats."
+  },
+  {
+    "id": 694,
+    "prompt": "Compose a cheerful classical minuet with elegant phrasing and balanced structure."
+  },
+  {
+    "id": 695,
+    "prompt": "Create an energetic punk rock track with fast guitars, aggressive vocals, and driving drums."
+  },
+  {
+    "id": 696,
+    "prompt": "Write a nostalgic 80s synth-pop song with catchy melodies and retro drum machines."
+  },
+  {
+    "id": 697,
+    "prompt": "Produce a cinematic epic theme with bold brass fanfares and sweeping strings."
+  },
+  {
+    "id": 698,
+    "prompt": "Generate a dreamy ambient synth piece with pads, subtle rhythms, and evolving soundscapes."
+  },
+  {
+    "id": 699,
+    "prompt": "Compose a lively bluegrass instrumental with banjo rolls, mandolin chops, and fiddle runs."
+  },
+  {
+    "id": 700,
+    "prompt": "Create a soulful neo-soul ballad with warm Rhodes piano and heartfelt vocals."
+  },
+  {
+    "id": 701,
+    "prompt": "Write a dramatic romantic symphony movement with sweeping strings and powerful brass."
+  },
+  {
+    "id": 702,
+    "prompt": "Produce a fast-paced jazz Latin bossa nova with nylon guitar, soft percussion, and mellow horns."
+  },
+  {
+    "id": 703,
+    "prompt": "Generate an upbeat reggae groove with smooth organ, deep bass, and skanking guitar."
+  },
+  {
+    "id": 704,
+    "prompt": "Compose a sparkling chamber music trio for violin, cello, and piano featuring lyrical interplay."
+  },
+  {
+    "id": 705,
+    "prompt": "Create a moody blues track with expressive electric guitar and shuffle drums."
+  },
+  {
+    "id": 706,
+    "prompt": "Write an uplifting gospel choir piece with rich harmonies and dynamic call-and-response."
+  },
+  {
+    "id": 707,
+    "prompt": "Compose a vibrant Baroque dance suite movement with lively harpsichord and strings."
+  },
+  {
+    "id": 708,
+    "prompt": "Create a minimalist piano piece with repeating motifs and gradual harmonic shifts."
+  },
+  {
+    "id": 709,
+    "prompt": "Write a heartfelt country waltz with steel guitar and warm vocal harmonies."
+  },
+  {
+    "id": 710,
+    "prompt": "Produce a dynamic orchestral film cue depicting a triumphant victory."
+  },
+  {
+    "id": 711,
+    "prompt": "Generate a smooth jazz ballad featuring sultry saxophone and soft brushes on drums."
+  },
+  {
+    "id": 712,
+    "prompt": "Compose an energetic EDM trance track with uplifting melodies and pulsing beats."
+  },
+  {
+    "id": 713,
+    "prompt": "Create a serene Japanese shakuhachi and koto duet with traditional scales."
+  },
+  {
+    "id": 714,
+    "prompt": "Write a funky 70s-inspired disco groove with rhythmic guitar and vibrant brass stabs."
+  },
+  {
+    "id": 715,
+    "prompt": "Produce a dramatic classical sonata movement for piano and violin with expressive themes."
+  },
+  {
+    "id": 716,
+    "prompt": "Generate an ambient drone piece with evolving textures and subtle harmonic layers."
+  },
+  {
+    "id": 717,
+    "prompt": "Compose a cheerful reggae tune with offbeat guitar chops and laid-back bassline."
+  },
+  {
+    "id": 718,
+    "prompt": "Create a nostalgic jazz waltz with walking bass and soft trumpet melodies."
+  },
+  {
+    "id": 719,
+    "prompt": "Write an intense progressive metal riff with odd time signatures and syncopated rhythms."
+  },
+  {
+    "id": 720,
+    "prompt": "Produce a gentle lullaby with music box timbres and soft string pads."
+  },
+  {
+    "id": 721,
+    "prompt": "Generate a cinematic mystery theme with dissonant strings and eerie woodwinds."
+  },
+  {
+    "id": 722,
+    "prompt": "Compose an upbeat mariachi polka with lively trumpets, violins, and guitarr\u00f3n."
+  },
+  {
+    "id": 723,
+    "prompt": "Create a soulful neo-soul track with smooth bass, electric piano, and heartfelt vocals."
+  },
+  {
+    "id": 724,
+    "prompt": "Write a dramatic operatic duet with soaring soprano and baritone lines."
+  },
+  {
+    "id": 725,
+    "prompt": "Produce a fast-paced funk instrumental with slap bass, wah guitar, and brass punches."
+  },
+  {
+    "id": 726,
+    "prompt": "Generate a relaxing chillout track with lush synth pads and slow beats."
+  },
+  {
+    "id": 727,
+    "prompt": "Compose a fiery flamenco buler\u00eda with rapid guitar and passionate clapping rhythms."
+  },
+  {
+    "id": 728,
+    "prompt": "Create a bright classical symphony scherzo movement with playful motifs."
+  },
+  {
+    "id": 729,
+    "prompt": "Write a moody blues ballad with expressive slide guitar and slow tempo."
+  },
+  {
+    "id": 730,
+    "prompt": "Produce a vibrant salsa dance tune with congas, piano montunos, and horn section."
+  },
+  {
+    "id": 731,
+    "prompt": "Generate a lush new age piano solo with flowing arpeggios and peaceful atmosphere."
+  },
+  {
+    "id": 732,
+    "prompt": "Compose an energetic punk rock anthem with power chords and driving drum patterns."
+  },
+  {
+    "id": 733,
+    "prompt": "Create a dreamy synth-pop track with ethereal vocals and retro synth textures."
+  },
+  {
+    "id": 734,
+    "prompt": "Write a solemn Gregorian chant-inspired choral piece with modal melodies."
+  },
+  {
+    "id": 735,
+    "prompt": "Produce a dramatic orchestral cue for a battle scene with aggressive brass and percussion."
+  },
+  {
+    "id": 736,
+    "prompt": "Generate a soulful R&B slow jam with smooth synths and expressive vocal runs."
+  },
+  {
+    "id": 737,
+    "prompt": "Compose a lighthearted classical minuet with elegant phrasing and balanced rhythm."
+  },
+  {
+    "id": 738,
+    "prompt": "Create a funky jazz fusion track with syncopated drums and virtuosic guitar."
+  },
+  {
+    "id": 739,
+    "prompt": "Write a relaxing ambient soundscape with field recordings and gentle synth drones."
+  },
+  {
+    "id": 740,
+    "prompt": "Produce an energetic ska song with upbeat guitar skanks and lively brass lines."
+  },
+  {
+    "id": 741,
+    "prompt": "Generate a reflective folk ballad with acoustic guitar and heartfelt vocals."
+  },
+  {
+    "id": 742,
+    "prompt": "Compose a majestic fanfare for brass and timpani to open a grand ceremony."
+  },
+  {
+    "id": 743,
+    "prompt": "Create a playful ragtime piano piece with bouncy rhythms and syncopation."
+  },
+  {
+    "id": 744,
+    "prompt": "Write a melancholic classical nocturne with flowing piano melodies."
+  },
+  {
+    "id": 745,
+    "prompt": "Produce an intense electronic dubstep track with heavy bass drops and glitch effects."
+  },
+  {
+    "id": 746,
+    "prompt": "Generate a romantic French chanson with accordion and expressive vocal lines."
+  },
+  {
+    "id": 747,
+    "prompt": "Compose a lively bluegrass jam featuring banjo, fiddle, and mandolin interplay."
+  },
+  {
+    "id": 748,
+    "prompt": "Create a soothing spa music track with harp, flute, and soft pads."
+  },
+  {
+    "id": 749,
+    "prompt": "Write a complex bebop jazz tune with rapid chord changes and virtuosic solos."
+  },
+  {
+    "id": 750,
+    "prompt": "Produce a driving techno track with repetitive rhythms and evolving synth patterns."
+  },
+  {
+    "id": 751,
+    "prompt": "Generate a heartfelt country ballad with pedal steel guitar and emotive vocals."
+  },
+  {
+    "id": 752,
+    "prompt": "Compose a joyful gospel hymn with uplifting choir harmonies and organ accompaniment."
+  },
+  {
+    "id": 753,
+    "prompt": "Create a cinematic western theme with acoustic guitar, harmonica, and sweeping strings."
+  },
+  {
+    "id": 754,
+    "prompt": "Write a catchy pop punk anthem with energetic guitars and fast drums."
+  },
+  {
+    "id": 755,
+    "prompt": "Produce a smooth jazz ballad featuring warm trumpet and soft piano chords."
+  },
+  {
+    "id": 756,
+    "prompt": "Generate a festive mariachi song with bright trumpets, violins, and rhythmic guitars."
+  },
+  {
+    "id": 757,
+    "prompt": "Compose a minimalistic electronic ambient piece with subtle drones and sparse melodies."
+  },
+  {
+    "id": 758,
+    "prompt": "Create a high-energy EDM dubstep track with heavy bass drops and glitchy synths."
+  },
+  {
+    "id": 759,
+    "prompt": "Write a reflective folk song with acoustic guitar, harmonica, and thoughtful lyrics."
+  },
+  {
+    "id": 760,
+    "prompt": "Produce a dynamic symphonic poem depicting a heroic quest with thematic development."
+  },
+  {
+    "id": 761,
+    "prompt": "Generate a smooth neo-soul track with jazzy chords, mellow bass, and soulful vocals."
+  },
+  {
+    "id": 762,
+    "prompt": "Compose a vibrant salsa tune with congas, trumpets, and piano montunos."
+  },
+  {
+    "id": 763,
+    "prompt": "Create a relaxing lo-fi hip-hop beat with mellow drums and jazzy samples."
+  },
+  {
+    "id": 764,
+    "prompt": "Write a dramatic horror soundtrack cue with dissonant strings and suspenseful rhythms."
+  },
+  {
+    "id": 765,
+    "prompt": "Produce an upbeat disco track with funky bass, rhythmic guitars, and energetic horns."
+  },
+  {
+    "id": 766,
+    "prompt": "Generate a gentle classical piano nocturne with flowing arpeggios and lyrical melodies."
+  },
+  {
+    "id": 767,
+    "prompt": "Compose a fiery flamenco dance piece with rapid guitar techniques and passionate expression."
+  },
+  {
+    "id": 768,
+    "prompt": "Create a lush synth-pop ballad with vintage 80s textures and emotive vocals."
+  },
+  {
+    "id": 769,
+    "prompt": "Write a swinging big band jazz number with vibrant brass and walking bass."
+  },
+  {
+    "id": 770,
+    "prompt": "Produce a soulful gospel choir piece with powerful harmonies and dynamic crescendos."
+  },
+  {
+    "id": 771,
+    "prompt": "Generate a dark trip-hop instrumental with atmospheric synths and slow beats."
+  },
+  {
+    "id": 772,
+    "prompt": "Compose a cheerful classical minuet with elegant phrasing and balanced structure."
+  },
+  {
+    "id": 773,
+    "prompt": "Create an energetic punk rock track with fast guitars and driving drums."
+  },
+  {
+    "id": 774,
+    "prompt": "Write a nostalgic 80s synth-pop song with catchy melodies and retro drum machines."
+  },
+  {
+    "id": 775,
+    "prompt": "Produce a cinematic epic theme with bold brass fanfares and sweeping strings."
+  },
+  {
+    "id": 776,
+    "prompt": "Generate a dreamy ambient synth piece with pads, subtle rhythms, and evolving soundscapes."
+  },
+  {
+    "id": 777,
+    "prompt": "Compose a lively bluegrass instrumental with banjo rolls, mandolin chops, and fiddle runs."
+  },
+  {
+    "id": 778,
+    "prompt": "Create a soulful neo-soul ballad with warm Rhodes piano and heartfelt vocals."
+  },
+  {
+    "id": 779,
+    "prompt": "Write a dramatic romantic symphony movement with sweeping strings and powerful brass."
+  },
+  {
+    "id": 780,
+    "prompt": "Produce a fast-paced jazz Latin bossa nova with nylon guitar and mellow horns."
+  },
+  {
+    "id": 781,
+    "prompt": "Generate an upbeat reggae groove with smooth organ, deep bass, and skanking guitar."
+  },
+  {
+    "id": 782,
+    "prompt": "Compose a sparkling chamber music trio for violin, cello, and piano featuring lyrical interplay."
+  },
+  {
+    "id": 783,
+    "prompt": "Create a moody blues track with expressive electric guitar and shuffle drums."
+  },
+  {
+    "id": 784,
+    "prompt": "Write an uplifting gospel choir piece with rich harmonies and dynamic call-and-response."
+  },
+  {
+    "id": 785,
+    "prompt": "Compose a serene classical adagio for solo cello and piano with expressive phrasing."
+  },
+  {
+    "id": 786,
+    "prompt": "Create a high-energy electronic dance track with driving bass and catchy synth leads."
+  },
+  {
+    "id": 787,
+    "prompt": "Write a delicate French impressionist piano piece inspired by Debussy/'s style."
+  },
+  {
+    "id": 788,
+    "prompt": "Produce a gritty blues-rock song with crunchy guitar riffs and soulful vocals."
+  },
+  {
+    "id": 789,
+    "prompt": "Generate a joyful polka with accordion, tuba, and lively percussion."
+  },
+  {
+    "id": 790,
+    "prompt": "Compose a meditative Indian classical raga alap with sitar and tanpura drone."
+  },
+  {
+    "id": 791,
+    "prompt": "Create a jazzy swing tune featuring big band horns and walking double bass."
+  },
+  {
+    "id": 792,
+    "prompt": "Write an atmospheric cinematic soundscape with evolving pads and subtle textures."
+  },
+  {
+    "id": 793,
+    "prompt": "Produce a vibrant Afrobeat groove with complex percussion and rhythmic horns."
+  },
+  {
+    "id": 794,
+    "prompt": "Generate a romantic Italian opera aria with dramatic vocal lines and orchestral support."
+  },
+  {
+    "id": 795,
+    "prompt": "Compose a mellow folk ballad with fingerpicked acoustic guitar and warm vocals."
+  },
+  {
+    "id": 796,
+    "prompt": "Create an energetic hip-hop beat with crisp drums, bass, and catchy vocal chops."
+  },
+  {
+    "id": 797,
+    "prompt": "Write a lively country bluegrass fiddle tune with fast-paced string interplay."
+  },
+  {
+    "id": 798,
+    "prompt": "Produce a dreamy synthwave track with vintage synths and nostalgic melodies."
+  },
+  {
+    "id": 799,
+    "prompt": "Generate a majestic orchestral march with bold brass and powerful percussion."
+  },
+  {
+    "id": 800,
+    "prompt": "Compose a soulful jazz ballad featuring trumpet and smooth piano accompaniment."
+  },
+  {
+    "id": 801,
+    "prompt": "Create a playful ragtime piano piece with syncopated rhythms and upbeat tempo."
+  },
+  {
+    "id": 802,
+    "prompt": "Write a dark ambient drone with minimal melodic content and eerie atmosphere."
+  },
+  {
+    "id": 803,
+    "prompt": "Produce a dynamic rock anthem with powerful guitars, driving drums, and anthemic chorus."
+  },
+  {
+    "id": 804,
+    "prompt": "Generate a soft acoustic pop song with gentle vocals and catchy melodies."
+  },
+  {
+    "id": 805,
+    "prompt": "Compose a festive Latin salsa tune with vibrant percussion and horn sections."
+  },
+  {
+    "id": 806,
+    "prompt": "Create a complex progressive rock instrumental with odd meters and intricate riffs."
+  },
+  {
+    "id": 807,
+    "prompt": "Write a gentle lullaby featuring music box and soft string pads."
+  },
+  {
+    "id": 808,
+    "prompt": "Produce a sophisticated jazz fusion track with virtuosic solos and complex harmony."
+  },
+  {
+    "id": 809,
+    "prompt": "Generate a soothing new age piece with flowing harp and ethereal synth textures."
+  },
+  {
+    "id": 810,
+    "prompt": "Compose a dramatic film noir jazz theme with moody saxophone and walking bass."
+  },
+  {
+    "id": 811,
+    "prompt": "Create a lively klezmer dance tune with clarinet, accordion, and upbeat rhythms."
+  },
+  {
+    "id": 812,
+    "prompt": "Write a powerful gospel choir anthem with uplifting harmonies and dynamic crescendos."
+  },
+  {
+    "id": 813,
+    "prompt": "Produce a chilled lo-fi hip-hop beat with relaxed drums and jazzy samples."
+  },
+  {
+    "id": 814,
+    "prompt": "Generate an energetic EDM house track with pulsating bass and catchy vocal hooks."
+  },
+  {
+    "id": 815,
+    "prompt": "Compose a serene ambient piano piece with gentle melodies and soft dynamics."
+  },
+  {
+    "id": 816,
+    "prompt": "Create a fiery flamenco guitar solo with fast picados and passionate expression."
+  },
+  {
+    "id": 817,
+    "prompt": "Write a joyous classical rondo movement with bright orchestration and lively themes."
+  },
+  {
+    "id": 818,
+    "prompt": "Produce a soulful R&B slow jam with lush chords and emotive vocals."
+  },
+  {
+    "id": 819,
+    "prompt": "Generate a vibrant Caribbean calypso song with steel drums and rhythmic percussion."
+  },
+  {
+    "id": 820,
+    "prompt": "Compose a romantic Romantic-era piano nocturne with flowing arpeggios."
+  },
+  {
+    "id": 821,
+    "prompt": "Create an aggressive heavy metal riff with palm-muted guitars and double-kick drums."
+  },
+  {
+    "id": 822,
+    "prompt": "Write a mellow jazz ballad with smooth saxophone and walking bass."
+  },
+  {
+    "id": 823,
+    "prompt": "Produce a bright pop-rock anthem with catchy hooks and driving rhythm."
+  },
+  {
+    "id": 824,
+    "prompt": "Generate a mysterious horror film soundtrack with dissonant strings and eerie effects."
+  },
+  {
+    "id": 825,
+    "prompt": "Compose a lively Irish folk dance tune with fiddle and bodhr\u00e1n percussion."
+  },
+  {
+    "id": 826,
+    "prompt": "Create a rich Baroque concerto grosso with contrasting concertino and ripieno groups."
+  },
+  {
+    "id": 827,
+    "prompt": "Write a warm acoustic singer-songwriter piece with heartfelt lyrics and gentle guitar."
+  },
+  {
+    "id": 828,
+    "prompt": "Produce a rhythmic Afro-Cuban jazz track with congas, horns, and piano montunos."
+  },
+  {
+    "id": 829,
+    "prompt": "Generate a sparkling classical chamber piece for flute, violin, and piano."
+  },
+  {
+    "id": 830,
+    "prompt": "Compose a driving techno track with repetitive beats and evolving synth patterns."
+  },
+  {
+    "id": 831,
+    "prompt": "Create a soulful blues ballad with expressive guitar bends and vocal emotion."
+  },
+  {
+    "id": 832,
+    "prompt": "Write a dreamy synth-pop track with lush pads and ethereal vocals."
+  },
+  {
+    "id": 833,
+    "prompt": "Produce an upbeat funk jam with slap bass, wah guitar, and horn section punches."
+  },
+  {
+    "id": 834,
+    "prompt": "Generate a tranquil ambient soundscape with nature sounds and gentle drones."
+  },
+  {
+    "id": 835,
+    "prompt": "Compose a celebratory brass fanfare with bold trumpet calls and timpani rolls."
+  },
+  {
+    "id": 836,
+    "prompt": "Create a melancholic classical elegy for strings and piano with rich harmonies."
+  },
+  {
+    "id": 837,
+    "prompt": "Write a catchy pop ballad with memorable chorus and polished production."
+  },
+  {
+    "id": 838,
+    "prompt": "Produce a hard-hitting trap beat with booming 808s and rapid hi-hats."
+  },
+  {
+    "id": 839,
+    "prompt": "Generate an elegant Renaissance dance with viols and lute."
+  },
+  {
+    "id": 840,
+    "prompt": "Compose a vibrant ska tune with upbeat guitar, brass, and energetic drums."
+  },
+  {
+    "id": 841,
+    "prompt": "Create a romantic operatic aria with soaring vocal lines and lush orchestration."
+  },
+  {
+    "id": 842,
+    "prompt": "Write a relaxing new age guitar instrumental with soothing melodies."
+  },
+  {
+    "id": 843,
+    "prompt": "Produce a fast-paced punk rock song with driving guitars and rebellious energy."
+  },
+  {
+    "id": 844,
+    "prompt": "Generate a serene Celtic folk ballad with harp and flute."
+  },
+  {
+    "id": 845,
+    "prompt": "Compose a rich orchestral overture with dynamic themes and colorful instrumentation."
+  },
+  {
+    "id": 846,
+    "prompt": "Create a soulful neo-soul groove with smooth keys and laid-back drums."
+  },
+  {
+    "id": 847,
+    "prompt": "Write a dramatic choral work with powerful harmonies and stirring melodies."
+  },
+  {
+    "id": 848,
+    "prompt": "Produce a chilled downtempo electronic track with mellow beats and ambient textures."
+  },
+  {
+    "id": 849,
+    "prompt": "Generate an energetic dancehall track with syncopated rhythms and catchy vocals."
+  },
+  {
+    "id": 850,
+    "prompt": "Compose a wistful piano solo with expressive rubato and lyrical phrasing."
+  },
+  {
+    "id": 851,
+    "prompt": "Create a powerful symphonic metal anthem with orchestral and heavy guitar layers."
+  },
+  {
+    "id": 852,
+    "prompt": "Write a lively French chanson with accordion and expressive vocals."
+  },
+  {
+    "id": 853,
+    "prompt": "Produce a relaxing jazz bossa nova with nylon guitar and soft percussion."
+  },
+  {
+    "id": 854,
+    "prompt": "Generate an intense action movie soundtrack cue with driving strings and brass."
+  },
+  {
+    "id": 855,
+    "prompt": "Compose a graceful waltz for orchestra with flowing melodies and elegant rhythm."
+  },
+  {
+    "id": 856,
+    "prompt": "Create a playful children/'s music tune with catchy melodies and simple harmony."
+  },
+  {
+    "id": 857,
+    "prompt": "Write a soulful gospel ballad with heartfelt choir and organ accompaniment."
+  },
+  {
+    "id": 858,
+    "prompt": "Produce a dynamic electronic dubstep track with heavy drops and glitch effects."
+  },
+  {
+    "id": 859,
+    "prompt": "Generate a soothing instrumental ballad with piano, strings, and gentle rhythm."
+  },
+  {
+    "id": 860,
+    "prompt": "Compose a majestic fanfare for a royal ceremony with bright brass and percussion."
+  },
+  {
+    "id": 861,
+    "prompt": "Create an intricate jazz standard with complex harmony and improvisational sections."
+  },
+  {
+    "id": 862,
+    "prompt": "Write a mellow folk song with acoustic guitar and warm vocal harmonies."
+  },
+  {
+    "id": 863,
+    "prompt": "Produce a bright EDM pop anthem with uplifting synths and dance beats."
+  },
+  {
+    "id": 864,
+    "prompt": "Compose a dramatic Romantic-era symphony movement with sweeping string melodies and bold brass."
+  },
+  {
+    "id": 865,
+    "prompt": "Create a smooth jazz fusion track featuring electric piano, saxophone, and syncopated rhythms."
+  },
+  {
+    "id": 866,
+    "prompt": "Write a lively polka with accordion, clarinet, and tuba, perfect for a festive dance."
+  },
+  {
+    "id": 867,
+    "prompt": "Produce an ambient electronic piece with evolving synth textures and subtle percussion."
+  },
+  {
+    "id": 868,
+    "prompt": "Generate a powerful heavy metal riff with fast palm-muted guitars and double bass drums."
+  },
+  {
+    "id": 869,
+    "prompt": "Compose a delicate solo piano nocturne in the style of Chopin with expressive rubato."
+  },
+  {
+    "id": 870,
+    "prompt": "Create an upbeat reggae track with offbeat guitar chops, deep bass, and relaxed drums."
+  },
+  {
+    "id": 871,
+    "prompt": "Write a soulful R&B ballad with smooth vocal runs and lush chord progressions."
+  },
+  {
+    "id": 872,
+    "prompt": "Produce a high-energy EDM trance anthem with driving basslines and soaring synth leads."
+  },
+  {
+    "id": 873,
+    "prompt": "Generate a rustic country folk tune with acoustic guitar, fiddle, and storytelling lyrics."
+  },
+  {
+    "id": 874,
+    "prompt": "Compose a jazzy big band swing number with brass section riffs and walking bass."
+  },
+  {
+    "id": 875,
+    "prompt": "Create a tranquil new age meditation piece with soft pads and gentle piano."
+  },
+  {
+    "id": 876,
+    "prompt": "Write a dynamic film score cue for an action chase scene with rhythmic strings and percussion."
+  },
+  {
+    "id": 877,
+    "prompt": "Produce a funky disco groove with slap bass, rhythmic guitar, and horn punches."
+  },
+  {
+    "id": 878,
+    "prompt": "Generate a melancholic blues ballad with expressive guitar bends and slow tempo."
+  },
+  {
+    "id": 879,
+    "prompt": "Compose a bright classical minuet with balanced phrasing and elegant rhythms."
+  },
+  {
+    "id": 880,
+    "prompt": "Create an intricate Baroque fugue with multiple contrapuntal voices and lively tempo."
+  },
+  {
+    "id": 881,
+    "prompt": "Write a relaxing lo-fi hip-hop beat with jazzy samples and laid-back drums."
+  },
+  {
+    "id": 882,
+    "prompt": "Produce a dramatic horror soundtrack with eerie strings, dissonant chords, and suspenseful textures."
+  },
+  {
+    "id": 883,
+    "prompt": "Generate a catchy pop rock anthem with energetic guitars and memorable chorus."
+  },
+  {
+    "id": 884,
+    "prompt": "Compose a passionate flamenco guitar piece with rapid strumming and rhythmic complexity."
+  },
+  {
+    "id": 885,
+    "prompt": "Create a smooth neo-soul groove with warm Rhodes piano and soulful vocals."
+  },
+  {
+    "id": 886,
+    "prompt": "Write a joyful Caribbean calypso song with steel drums and lively percussion."
+  },
+  {
+    "id": 887,
+    "prompt": "Produce a sophisticated jazz ballad featuring trumpet and gentle piano accompaniment."
+  },
+  {
+    "id": 888,
+    "prompt": "Generate an energetic funk instrumental with tight rhythm section and brass stabs."
+  },
+  {
+    "id": 889,
+    "prompt": "Compose a serene classical adagio for strings and harp with flowing melodies."
+  },
+  {
+    "id": 890,
+    "prompt": "Create a moody trip-hop track with downtempo beats and atmospheric synths."
+  },
+  {
+    "id": 891,
+    "prompt": "Write a lively bluegrass tune with banjo rolls and fiddle improvisation."
+  },
+  {
+    "id": 892,
+    "prompt": "Produce a cinematic epic theme with bold brass fanfares and sweeping strings."
+  },
+  {
+    "id": 893,
+    "prompt": "Generate a relaxing ambient piano piece with soft dynamics and lyrical motifs."
+  },
+  {
+    "id": 894,
+    "prompt": "Compose a funky jazz fusion track with complex rhythms and virtuosic solos."
+  },
+  {
+    "id": 895,
+    "prompt": "Create a dramatic orchestral march with powerful percussion and bold brass."
+  },
+  {
+    "id": 896,
+    "prompt": "Write a catchy synth-pop song with bright melodies and retro drum machines."
+  },
+  {
+    "id": 897,
+    "prompt": "Produce a soulful gospel choir anthem with rich harmonies and dynamic crescendos."
+  },
+  {
+    "id": 898,
+    "prompt": "Generate a smooth chillout track with lush synth pads and gentle beats."
+  },
+  {
+    "id": 899,
+    "prompt": "Compose a vibrant mariachi dance with trumpets, violins, and rhythmic guitars."
+  },
+  {
+    "id": 900,
+    "prompt": "Create a melancholic classical elegy for piano and strings with expressive phrasing."
+  },
+  {
+    "id": 901,
+    "prompt": "Write an upbeat punk rock song with fast guitars and energetic vocals."
+  },
+  {
+    "id": 902,
+    "prompt": "Produce a dreamy synthwave track with nostalgic melodies and atmospheric textures."
+  },
+  {
+    "id": 903,
+    "prompt": "Generate a warm folk ballad with acoustic guitar and heartfelt lyrics."
+  },
+  {
+    "id": 904,
+    "prompt": "Compose a grand orchestral overture with thematic development and dynamic contrasts."
+  },
+  {
+    "id": 905,
+    "prompt": "Create a lively ska tune with upstroke guitar rhythms and brass accents."
+  },
+  {
+    "id": 906,
+    "prompt": "Write a romantic Italian opera aria with soaring vocal lines and lush orchestration."
+  },
+  {
+    "id": 907,
+    "prompt": "Produce a soft acoustic guitar instrumental with gentle fingerpicking patterns."
+  },
+  {
+    "id": 908,
+    "prompt": "Generate a fast-paced techno track with driving beats and evolving synth lines."
+  },
+  {
+    "id": 909,
+    "prompt": "Compose a soulful blues track with expressive vocals and smooth guitar licks."
+  },
+  {
+    "id": 910,
+    "prompt": "Create a bright pop ballad with catchy hooks and polished production."
+  },
+  {
+    "id": 911,
+    "prompt": "Write a mysterious horror soundtrack with dissonant strings and unsettling effects."
+  },
+  {
+    "id": 912,
+    "prompt": "Produce a traditional Irish folk tune with fiddle, flute, and rhythmic bodhr\u00e1n."
+  },
+  {
+    "id": 913,
+    "prompt": "Generate a complex progressive rock instrumental with odd time signatures and intricate melodies."
+  },
+  {
+    "id": 914,
+    "prompt": "Compose a heartfelt singer-songwriter ballad with piano and introspective lyrics."
+  },
+  {
+    "id": 915,
+    "prompt": "Create a rhythmic Afrobeat groove with layered percussion and horn lines."
+  },
+  {
+    "id": 916,
+    "prompt": "Write an elegant chamber music piece for string quartet with lyrical themes."
+  },
+  {
+    "id": 917,
+    "prompt": "Produce an energetic EDM house track with pulsing bass and catchy vocal chops."
+  },
+  {
+    "id": 918,
+    "prompt": "Generate a soothing new age harp and flute duet with tranquil melodies."
+  },
+  {
+    "id": 919,
+    "prompt": "Compose a dramatic classical sonata movement for piano and violin."
+  },
+  {
+    "id": 920,
+    "prompt": "Create a funky disco track with rhythmic guitar and brass section."
+  },
+  {
+    "id": 921,
+    "prompt": "Write a mellow jazz ballad with warm saxophone and gentle piano chords."
+  },
+  {
+    "id": 922,
+    "prompt": "Produce a vibrant salsa dance tune with congas, piano montunos, and horn section."
+  },
+  {
+    "id": 923,
+    "prompt": "Generate a cinematic western theme with acoustic guitar, harmonica, and sweeping strings."
+  },
+  {
+    "id": 924,
+    "prompt": "Compose an uplifting gospel hymn with powerful choir and organ accompaniment."
+  },
+  {
+    "id": 925,
+    "prompt": "Create a chill lo-fi hip-hop beat with relaxed drums and jazzy samples."
+  },
+  {
+    "id": 926,
+    "prompt": "Write a dramatic film score cue for an intense battle scene with aggressive brass and percussion."
+  },
+  {
+    "id": 927,
+    "prompt": "Produce a playful children\\\u2019s music track with simple melodies and upbeat rhythms."
+  },
+  {
+    "id": 928,
+    "prompt": "Generate a serene ambient soundscape with soft pads and nature recordings."
+  },
+  {
+    "id": 929,
+    "prompt": "Compose a joyous classical rondo movement with lively themes and bright orchestration."
+  },
+  {
+    "id": 930,
+    "prompt": "Create a soulful neo-soul ballad with smooth keyboard textures and emotive vocals."
+  },
+  {
+    "id": 931,
+    "prompt": "Write a fast-paced punk rock anthem with energetic guitars and catchy chorus."
+  },
+  {
+    "id": 932,
+    "prompt": "Produce a romantic French chanson with accordion and expressive singing."
+  },
+  {
+    "id": 933,
+    "prompt": "Generate a dramatic electronic dubstep track with heavy bass drops and glitch effects."
+  },
+  {
+    "id": 934,
+    "prompt": "Compose a gentle lullaby featuring music box tones and soft strings."
+  },
+  {
+    "id": 935,
+    "prompt": "Create a vibrant brass band march with bold fanfares and rhythmic percussion."
+  },
+  {
+    "id": 936,
+    "prompt": "Write an intricate Baroque fugue with lively counterpoint and multiple voices."
+  },
+  {
+    "id": 937,
+    "prompt": "Produce a chilled downtempo electronic track with mellow beats and atmospheric pads."
+  },
+  {
+    "id": 938,
+    "prompt": "Generate a heartfelt country ballad with pedal steel guitar and warm vocals."
+  },
+  {
+    "id": 939,
+    "prompt": "Compose a bright and lively classical scherzo with playful rhythms and light textures."
+  },
+  {
+    "id": 940,
+    "prompt": "Create a soulful jazz ballad featuring a muted trumpet and smooth walking bass."
+  },
+  {
+    "id": 941,
+    "prompt": "Write an energetic EDM trap beat with booming 808s and rapid hi-hat patterns."
+  },
+  {
+    "id": 942,
+    "prompt": "Produce a serene ambient piece with gentle piano motifs and evolving synth pads."
+  },
+  {
+    "id": 943,
+    "prompt": "Generate a fast-paced bluegrass tune with mandolin, banjo, and fiddle solos."
+  },
+  {
+    "id": 944,
+    "prompt": "Compose a dramatic Romantic piano concerto movement with sweeping melodies."
+  },
+  {
+    "id": 945,
+    "prompt": "Create a catchy pop song with upbeat guitars, vibrant synths, and anthemic chorus."
+  },
+  {
+    "id": 946,
+    "prompt": "Write a haunting film noir jazz theme with moody saxophone and sparse piano."
+  },
+  {
+    "id": 947,
+    "prompt": "Produce a rhythmic Afro-Cuban jazz piece with complex percussion layers."
+  },
+  {
+    "id": 948,
+    "prompt": "Generate a mellow indie folk track with fingerpicked guitar and introspective lyrics."
+  },
+  {
+    "id": 949,
+    "prompt": "Compose a majestic orchestral overture with bold brass and sweeping strings."
+  },
+  {
+    "id": 950,
+    "prompt": "Create a funky disco groove with slap bass, wah guitar, and vibrant horns."
+  },
+  {
+    "id": 951,
+    "prompt": "Write a relaxing new age guitar instrumental with lush harmonics and slow tempo."
+  },
+  {
+    "id": 952,
+    "prompt": "Produce a high-energy rock anthem with distorted guitars and driving drums."
+  },
+  {
+    "id": 953,
+    "prompt": "Generate a smooth neo-soul track with warm Rhodes piano and soulful vocals."
+  },
+  {
+    "id": 954,
+    "prompt": "Compose a classical string quartet with intricate counterpoint and lyrical melodies."
+  },
+  {
+    "id": 955,
+    "prompt": "Create an atmospheric electronic soundscape with ethereal pads and subtle beats."
+  },
+  {
+    "id": 956,
+    "prompt": "Write a joyful Caribbean soca song with steel drums and lively percussion."
+  },
+  {
+    "id": 957,
+    "prompt": "Produce a heartfelt country ballad with acoustic guitar and emotional vocals."
+  },
+  {
+    "id": 958,
+    "prompt": "Generate a complex progressive metal instrumental with technical riffs and odd meters."
+  },
+  {
+    "id": 959,
+    "prompt": "Compose a soft jazz bossa nova with nylon guitar and gentle percussion."
+  },
+  {
+    "id": 960,
+    "prompt": "Create a driving techno track with pulsing bass and rhythmic synth stabs."
+  },
+  {
+    "id": 961,
+    "prompt": "Write a playful children\u2019s song with catchy melodies and simple instrumentation."
+  },
+  {
+    "id": 962,
+    "prompt": "Produce a lush film score cue for a romantic scene with strings and piano."
+  },
+  {
+    "id": 963,
+    "prompt": "Generate a vibrant Latin salsa track with dynamic horns and percussion."
+  },
+  {
+    "id": 964,
+    "prompt": "Compose a serene classical adagio for solo piano with expressive phrasing."
+  },
+  {
+    "id": 965,
+    "prompt": "Create a funky jazz-fusion piece with complex rhythms and virtuosic solos."
+  },
+  {
+    "id": 966,
+    "prompt": "Write a fast-paced punk rock song with aggressive guitars and energetic vocals."
+  },
+  {
+    "id": 967,
+    "prompt": "Produce a dreamy synth-pop track with vintage synths and ethereal vocals."
+  },
+  {
+    "id": 968,
+    "prompt": "Generate a warm folk ballad with acoustic guitar and heartfelt lyrics."
+  },
+  {
+    "id": 969,
+    "prompt": "Compose a grand symphonic march with bold brass and triumphant percussion."
+  },
+  {
+    "id": 970,
+    "prompt": "Create a mellow lo-fi hip-hop beat with jazzy samples and relaxed drums."
+  },
+  {
+    "id": 971,
+    "prompt": "Write a dramatic horror soundtrack with dissonant strings and unsettling effects."
+  },
+  {
+    "id": 972,
+    "prompt": "Produce a catchy pop-rock anthem with energetic guitars and memorable chorus."
+  },
+  {
+    "id": 973,
+    "prompt": "Generate a romantic flamenco guitar solo with fast picados and passionate expression."
+  },
+  {
+    "id": 974,
+    "prompt": "Compose a soulful gospel choir piece with uplifting harmonies and organ accompaniment."
+  },
+  {
+    "id": 975,
+    "prompt": "Create a chill electronic downtempo track with lush pads and smooth beats."
+  },
+  {
+    "id": 976,
+    "prompt": "Write an intricate Baroque concerto grosso with contrasting concertino and ripieno groups."
+  },
+  {
+    "id": 977,
+    "prompt": "Produce a playful ragtime piano piece with syncopated rhythms and upbeat tempo."
+  },
+  {
+    "id": 978,
+    "prompt": "Generate a relaxing Celtic folk ballad with harp and flute."
+  },
+  {
+    "id": 979,
+    "prompt": "Compose a dynamic jazz standard with improvisational sections and complex harmony."
+  },
+  {
+    "id": 980,
+    "prompt": "Create a festive brass band tune with lively rhythms and bold melodies."
+  },
+  {
+    "id": 981,
+    "prompt": "Write a soulful R&B slow jam with lush chords and emotive vocals."
+  },
+  {
+    "id": 982,
+    "prompt": "Produce an energetic EDM house track with pulsating bass and catchy vocal hooks."
+  },
+  {
+    "id": 983,
+    "prompt": "Generate a smooth chillout track with mellow synth pads and gentle beats."
+  },
+  {
+    "id": 984,
+    "prompt": "Compose a dramatic classical sonata movement for piano and violin."
+  },
+  {
+    "id": 985,
+    "prompt": "Create a vibrant mariachi dance with trumpets, violins, and rhythmic guitars."
+  },
+  {
+    "id": 986,
+    "prompt": "Write a nostalgic synthwave track with retro melodies and driving beats."
+  },
+  {
+    "id": 987,
+    "prompt": "Produce a heartfelt acoustic singer-songwriter ballad with intimate lyrics."
+  },
+  {
+    "id": 988,
+    "prompt": "Compose a lively Baroque dance suite movement with ornamented melodies and steady rhythm."
+  },
+  {
+    "id": 989,
+    "prompt": "Create a smooth jazz fusion track featuring electric guitar and complex time signatures."
+  },
+  {
+    "id": 990,
+    "prompt": "Write an upbeat ska tune with punchy brass, offbeat guitar, and energetic vocals."
+  },
+  {
+    "id": 991,
+    "prompt": "Produce a serene ambient drone with layered synths and slow evolving textures."
+  },
+  {
+    "id": 992,
+    "prompt": "Generate a heartfelt blues shuffle with expressive guitar solos and steady groove."
+  },
+  {
+    "id": 993,
+    "prompt": "Compose a dramatic Romantic piano \u00e9tude with virtuosic runs and passionate dynamics."
+  },
+  {
+    "id": 994,
+    "prompt": "Create a catchy pop EDM track with bright synth leads and four-on-the-floor beat."
+  },
+  {
+    "id": 995,
+    "prompt": "Write a nostalgic folk ballad with acoustic instruments and storytelling lyrics."
+  },
+  {
+    "id": 996,
+    "prompt": "Produce a dynamic orchestral film score cue for an epic battle scene."
+  },
+  {
+    "id": 997,
+    "prompt": "Generate a smooth neo-soul track with warm keys and laid-back rhythm section."
+  },
+  {
+    "id": 998,
+    "prompt": "Compose a fast-paced punk rock song with distorted guitars and rebellious attitude."
+  },
+  {
+    "id": 999,
+    "prompt": "Create a lush new age piano piece with flowing arpeggios and gentle harmonies."
+  },
+  {
+    "id": 1000,
+    "prompt": "Write an energetic disco track with funky basslines and rhythmic guitar chops."
+  }
+]
